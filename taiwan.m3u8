@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.ibb.co/NKqMdtf/maori.png",Maori
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad720p.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.ibb.co/pXzcg42/NTD-TV.png",NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.ibb.co/Y0pr1T6/1.jpg",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.ibb.co/bs9Pzyq/2.jpg",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.ibb.co/Yb2L9vw/3.jpg",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.ibb.co/S5njB9V/te-reo.jpg",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad720p.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.ibb.co/xsVHbZM/u.png",UChannel TV
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/k2ZGDdV.jpg?1",唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/O9TnnUE.png",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.ibb.co/pnpmdwy/image.jpg",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/LUjE7YE.png",好消息台1
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/LUjE7YE.png",好消息台3
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/82EzDwH.png",民視新聞
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/82EzDwH.png",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/82EzDwH.png",民视新闻1
+http://210.61.56.23/hls/ftvtv/index.m3u8
