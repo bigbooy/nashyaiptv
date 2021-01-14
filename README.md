@@ -1,0 +1,2 @@
+# bigbooy.github.io
+iptvonly
