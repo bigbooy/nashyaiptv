@@ -1,0 +1,850 @@
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Lifestyle
+http://NashyaIPtv@livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Adventure
+http://NashyaIPtv@livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/NpimePl.png",RCTI
+https:///NashyaIPtv@vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/9BdnzFa.png",GTV
+https:///NashyaIPtv@vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/KoncWxL.png",MNC
+https:///NashyaIPtv@vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/6At1e5L.png",INEWS
+https:///NashyaIPtv@vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.useetv.com/assets/images/channel/logo_transtv_small1.png",Trans TV
+https:///NashyaIPtv@video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans 7
+https:///NashyaIPtv@video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@pbs.twimg.com/profile_images/484604765662236672/Rk67sGru.png",TVKu
+http://NashyaIPtv@103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.ibb.co/L0x4cC6/net.jpg",NetTVhd
+https:///NashyaIPtv@dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
+https:///NashyaIPtv@liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://NashyaIPtv@images.useetv.com/logo_tvri_big1.png",TVRIcanal3
+http://NashyaIPtv@118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/XaQBspc.png",METROTV
+https:///NashyaIPtv@chostv.mobie.in/choos/iptv/metrotv.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@static.epg.best/id/TVRI.id.png",TVRI
+http://NashyaIPtv@wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.beritasatu.com/assets/img/news/news_logo.png",BeritaSatu
+https:///NashyaIPtv@b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg",Magna Channel
+https:///NashyaIPtv@edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Drakor
+http://wz.insantv.net/monitor/ch105.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SinemaIndonesiaX
+http://wz.insantv.net/monitor/ch106.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",DrakorPlus
+http://wz.insantv.net/monitor/ch107.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",RRINet
+http://wz.insantv.net/monitor/ch110.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",TVP
+http://wz.insantv.net/monitor/ch111.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",KTV
+http://wz.insantv.net/monitor/ch112.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",KompasTV
+http://wz.insantv.net/monitor/ch113.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",CintabollY
+http://wz.insantv.net/monitor/ch114.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",TVIn
+http://wz.insantv.net/monitor/ch115.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",NTV
+http://wz.insantv.net/monitor/ch116.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",FTV
+http://wz.insantv.net/monitor/ch120.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",LapakMusik
+http://wz.insantv.net/monitor/ch122.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",MyTV
+http://wz.insantv.net/monitor/ch123.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",M Channel
+http://wz.insantv.net/monitor/ch137.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg",Biznet Kids
+http://NashyaIPtv@livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://NashyaIPtv@ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg",AhsanTV
+http://NashyaIPtv@119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.tikilive.com/public/files/shows/226/226513/48133-294x165-FFFFFF.jpg",BayuTV
+http://NashyaIPtv@wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://NashyaIPtv@streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png",BandungTV
+http://NashyaIPtv@202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png",CTVBanten
+http://NashyaIPtv@103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@www.nusantaratv.com/uploads/logo/logo_white.png",NusantaraTV
+https:///NashyaIPtv@v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@image.winudf.com/v2/image/Y29tLnJhZGFydGFzaWttYWxheWEudHZfaWNvbl8wXzcwMDczYTVi/icon.png?w=170&fakeurl=1",RadarTVTasikmalaya
+http://NashyaIPtv@radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://NashyaIPtv@reformed21.tv/images/logo.png",Reformed21
+http://NashyaIPtv@edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://NashyaIPtv@tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png",Tatv
+http://NashyaIPtv@video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.ibb.co/7VVYNfZ/tvri.jpg",TVRI+
+http://NashyaIPtv@202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.postimg.cc/ZBQkzKpC/JAWAPOS.png",JawaPos
+https:///NashyaIPtv@dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=1
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png",JakartaGlobe
+http://NashyaIPtv@edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRINet
+http://NashyaIPtv@36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",Beritasatu
+http://NashyaIPtv@edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",BERITASATU+
+http://NashyaIPtv@202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png",CNBC+
+http://NashyaIPtv@live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.ibb.co/yBWB003/cnnin.png",CNNINDONESIA+
+http://NashyaIPtv@live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",USA:CONTV
+https:///NashyaIPtv@dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/Y84VwVC/hbo.png",HBO
+http://NashyaIPtv@95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/Y84VwVC/hbo.png",HBO2
+http://NashyaIPtv@95.170.215.118:80/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/Y84VwVC/hbo.png",HBO3
+http://NashyaIPtv@95.170.215.118:80/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/1nwFzzw/hbo.png",HBO
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/1nwFzzw/hbo.png",HBO
+http://NashyaIPtv@me.zichannels.my.id/ch/hbo.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/1nwFzzw/hbo.png",HBO (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",HBO Family
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",HBO Family
+http://NashyaIPtv@me.zichannels.my.id/ch/family.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png",HBO Family (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/5Yg5Fd0/sig.png",HBO Signature
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/5Yg5Fd0/sig.png",HBO Signature
+http://NashyaIPtv@me.zichannels.my.id/ch/sighd.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/5Yg5Fd0/sig.png",HBO Signature
+https:///NashyaIPtv@dl.dropboxusercontent.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/5Yg5Fd0/sig.png",HBO Signature (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/zHRsWvF/HBOHits-ASIA.png",HBO Hits
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/zHRsWvF/HBOHits-ASIA.png",HBO Hits
+http://NashyaIPtv@me.zichannels.my.id/ch/hits.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/zHRsWvF/HBOHits-ASIA.png",HBO Hits (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/dJLG877/Screen-RED-logo.jpg",HBO Red
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/dJLG877/Screen-RED-logo.jpg",HBO Red
+http://NashyaIPtv@me.zichannels.my.id/ch/red.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/dJLG877/Screen-RED-logo.jpg",HBO Red (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/gzWSvmc/cinemax.png",Cinemax
+http://NashyaIPtv@me.zichannels.my.id/ch/max.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/gzWSvmc/cinemax.png",Cinemax
+https:///NashyaIPtv@raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https:///NashyaIPtv@i.ibb.co/gzWSvmc/cinemax.png",Cinemax (Multi Bahasa)
+https:///NashyaIPtv@liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/8dWpOkG.png",HBO
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/OC4DnZW.png",HBO Hits
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/5JyFVa8.png",HBO signature
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@static.epg.best/us/HBO.us.png",HBO Signature
+http://NashyaIPtv@136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/3sDSsmu.png",HBO Family
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/NHMxRlR.png",CINEMAX
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@static.epg.best/ph/Cinemax.ph.png",Cinemax
+http://NashyaIPtv@136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TjIsMCx.png",K+1
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/24i4Kk3.png",WBtv
+http://NashyaIPtv@36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",JGO
+http://NashyaIPtv@edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FOXLifeHD
+http://NashyaIPtv@188.113.190.12/182/video.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FOXMIXTV
+http://NashyaIPtv@tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Fox Movies
+http://NashyaIPtv@62.112.9.63:88/fox_movies/index.m3u8?token=test
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Fox Crime (Opt-1)
+http://NashyaIPtv@194.54.183.122:8000/play/a01m
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Fox Crime (Opt-2)
+http://NashyaIPtv@136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FoxSportsNews
+https:///NashyaIPtv@austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FOXSportHD1USA
+http://NashyaIPtv@austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",BeinMovies1
+http://NashyaIPtv@95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",BeinMovies2
+http://NashyaIPtv@95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",BeinMovies3
+http://NashyaIPtv@95.170.215.120/hls/m3u8/Bein-Movies3.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",BeinMovies4
+http://NashyaIPtv@95.170.215.120/hls/m3u8/Bein-Movies4.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",THWARNERHD
+http://NashyaIPtv@203.154.243.89:1205
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",MovieKingdom
+https:///NashyaIPtv@a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",TVSWESTERNMOVIES
+http://NashyaIPtv@nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",CLASSICMOVIES
+https:///NashyaIPtv@stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Zee Cafe HD
+http://NashyaIPtv@z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",& Picture HD
+http://NashyaIPtv@z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",& Flix HD (Opt-1)
+http://NashyaIPtv@z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",& Flix HD (Opt-2)
+https:///NashyaIPtv@y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",& Prive HD (Opt-1)
+http://NashyaIPtv@z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",& Prive HD (Opt-2)
+https:///NashyaIPtv@y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Crime & Investigation
+http://NashyaIPtv@203.154.243.31:15001
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FilmriseCrime
+https:///NashyaIPtv@dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FilmriseFamily
+https:///NashyaIPtv@dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FilmriseMovies
+https:///NashyaIPtv@dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",GravitasMovies
+https:///NashyaIPtv@dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",MaverickMovies
+https:///NashyaIPtv@dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Hi-Yah!
+https:///NashyaIPtv@dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",FlimHub
+https:///NashyaIPtv@dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Gakku
+https:///NashyaIPtv@sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",BollywoodTV
+http://NashyaIPtv@a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",History
+http://NashyaIPtv@95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",LoveNature
+https:///NashyaIPtv@dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.imgur.com/TJHbMcu.png",Tasty
+https:///NashyaIPtv@dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",TLC HD (Eng)
+https:///NashyaIPtv@streamitv.multitvsolution.in/idvo/tlchd.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Travel TV
+http://NashyaIPtv@31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Arirang (Opt-1)
+http://NashyaIPtv@amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Subrang TV
+http://NashyaIPtv@cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SBI Music HD
+http://NashyaIPtv@livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png", Kerrang!
+http://NashyaIPtv@csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://NashyaIPtv@boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Magic
+http://NashyaIPtv@csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http://NashyaIPtv@boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Kiss
+http://NashyaIPtv@csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://NashyaIPtv@boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",The BOX
+http://NashyaIPtv@csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://NashyaIPtv@boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",History TV
+https:///NashyaIPtv@ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.postimg.cc/qvRLCxf4/Fashion-tv.png",FashionTVTeens
+http://NashyaIPtv@fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.postimg.cc/qvRLCxf4/Fashion-tv.png",FashionTVFilms
+http://NashyaIPtv@fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.postimg.cc/qvRLCxf4/Fashion-tv.png",FashionTVMidnight
+http://NashyaIPtv@fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https:///NashyaIPtv@i.postimg.cc/qvRLCxf4/Fashion-tv.png",FASHIONMIDNIGHTD
+http://NashyaIPtv@fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AstroSport1
+http://NashyaIPtv@50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AstroSport2
+http://NashyaIPtv@50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AstroSport3
+http://NashyaIPtv@50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AstroSport4
+http://NashyaIPtv@50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AstroArena
+http://NashyaIPtv@50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Supersport 1 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4729
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Supersport 3 FHD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625241
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Supersport 4 FHD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625240
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Supersport 5 FHD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4725
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Action FHD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683568
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Blitz FHD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682921
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport FHD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682920
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Football HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678024
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Grandstand HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678031
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport La Liga HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683001
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Maximo HD AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682919
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport PSL HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678030
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Variety 1 HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678020
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Variety 2 HD AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678021
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Variety 3 HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678022
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",SuperSport Variety 4 HD VIP AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678023
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 1 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682956
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 1 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625254
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 1 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625226
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 10 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682966
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 12 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682969
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 13 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682970
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 14 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682971
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 2 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682957
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 2 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682955
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 2 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/86352
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 3 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682958
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 3 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625250
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 3 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625233
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 4 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682959
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 4 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625253
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 4 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682961
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 5 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682962
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 6 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682963
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport 7 [Match Time] FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682964
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RMC Sport News HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624939
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub FHD 1 RS
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53164
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub FHD 2 RS
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5444
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub HD 1 HR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625227
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub HD 2 HR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7088
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub HD 3 HR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7087
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Klub HD 3 RS
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5443
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Abu Dhabi Sports 1 FHD AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5890
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Abu Dhabi Sports 2 AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5889
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AD Sports 1 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682978
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AD Sports 2 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682979
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AD Sports 3 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682973
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AD Sports 4 FHD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5404
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",AD Sports 5 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682974
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Africa Sports TV HD AF
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682988
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Auto Motor Sport BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37964
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Auto Motor Sport FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9132
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",BFM Sport FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8560
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Blue Sport 1 FHD CH
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Blue Sport 2 FHD CH
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Canal+ Sport FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16926
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Canal+ Sport HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5696
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",CBS Sports Network HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14385
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",CT4 Sport HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18695
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DEL Sport 2 HD [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679852
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DEL Sport 4 HD [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679854
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DEL Sport 6 HD [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679856
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Diema Sport 1 BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681649
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Diema Sport 1 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5982
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Diema Sport 2 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5981
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 1 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5454
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DIGI Sport 1 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/149962
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 1 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5321
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DIGI Sport 2 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14995
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 2 HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5453
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 2 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5320
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DIGI Sport 3 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14994
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 3 HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5452
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 3 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5319
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 4 HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682989
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Digi Sport 4 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5318
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",DMC Sports AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5403
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Dubai Sports 1 HD AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682975
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Dubai Sports 2 HD AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682976
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Dubai Sports 3 AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5854
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Dubai Sports 4 AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5853
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Dubai Sports AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5855
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eir Sports 1 HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682994
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eir Sports 2 HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682995
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eleven Sport 1 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51927
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eleven Sport 2 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51926
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eleven Sport 3 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51925
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eleven Sport 4 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51924
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eleven Sport 5 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51923
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8218
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5672
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11444
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7519
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5292
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 FHD RU
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36870
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625815
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18690
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD ES
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8746
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682922
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12981
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 HD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6879
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 1 NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11445
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 ES
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13531
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9029
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5671
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11443
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7518
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5291
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 FHD RU
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36871
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18689
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12951
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14990
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 HD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6878
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Eurosport 2 Xtra FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13163
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Extreme Sports RU
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5361
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sport 2 LAM
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67132
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 1 HD ARG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626925
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 1 HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5143
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 1 HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/137256
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 1 US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63735
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 2 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6486
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 2 HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/494259
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 2 NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5142
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 2 US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63365
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 3 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6485
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 3 HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5141
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 4 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64848
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 4 HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/514522
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 5 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/64338
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 6 FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/131212
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports 6 HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/513821
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14562
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports LAM
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67322
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Fox Sports North HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Freesports HD VIP UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682990
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Geo Sports PK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5207
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",InfoSport+ FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5660
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",InfoSport+ HD FR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12952
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Jordan Sport JO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14681
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kombat Sport HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682981
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kombat Sports PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8793
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",KSA Sport 1 FHD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623168
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",KSA Sport 2 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623167
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",KSA Sport 3 HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679666
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",KSA Sport 4 FHD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679667
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",KTV Sport Plus HD KW
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14774
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kujtesa Sport 1 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15177
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kujtesa Sport 2 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151762
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kujtesa Sport 3 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151754
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kujtesa Sport 4 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15174
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kuwait Sport KW
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5808
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kuwait Sport Plus KW
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4115
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Kuwait Sport TV KW
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4114
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Look Sport HD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5314
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Look Sport Plus RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5313
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Match Sports FHD RU
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5374
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Max Sport 1 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50865
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Max Sport 2 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50866
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Max Sport 3 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/629048
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Max Sport 4 HD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641399
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",NBC Sports Network FHD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",NBC Sports Network HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4952
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Nile Sport AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5860
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Nova Sport 1 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18662
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Nova Sport 2 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6057
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",NPO Poltiek/Sport NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5126
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Oman Sport HD OM
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5811
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",ON Sport ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21080
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",OSN Alkass Sport 4 AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5886
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Premier Sports 1 HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682991
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Premier Sports 2 HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682992
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",PTV Sports HD PK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5435
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",PTV Sports PK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9212
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RTA sport HD AFG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3645
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",RTSH Sport HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14017
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",S Sport HD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8729
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Saudi Sports AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5829
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sharjah Sport HD AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682977
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 1 [B] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684429
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 1 DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9125
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 1 FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684432
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 1 HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683895
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 10 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6177
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 2 FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7362
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 2 HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683896
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 3 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13563
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 3 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6182
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 4 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13562
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 4 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9127
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 5 FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13561
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 7 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6180
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 8 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6179
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport 9 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6178
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Austria 1 FHD AT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5394
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Austria 2 FHD AT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5393
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13538
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/73136
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684430
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684005
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683408
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683409
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6195
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135258
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62223
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135671
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62220
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/91235
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 5 [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/62002
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/135335
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/619225
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 7 [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6198
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6197
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sport Bundesliga 9 [Match Time] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6196
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sports Cricket HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684433
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sports Golf HD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5396
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sports Main Event FHD UK
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682993
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sports News FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13555
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sky Sports News HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684431
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Smart Sport 1 HD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5446
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport 1 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18672
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport 2 HD CZ
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6050
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Digital FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8244
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Digital HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6171
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport Plus FHD BG
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9022
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV + FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7477
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 1 [B] FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13097
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 1 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8818
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 1 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13096
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 2 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7481
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 2 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8814
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 2 PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13093
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 3 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8817
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 3 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8813
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 3 PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13091
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 4 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8816
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 4 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7479
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 4 PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13089
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 5 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7478
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 5 HD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8812
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV 5 PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13087
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV1 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5442
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV2 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5441
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport TV3 FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5440
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport1 FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6173
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport1 HD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8226
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport1+ FHD DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679847
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sport1+ HD [B] DE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679848
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sporting TV FHD PT
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7476
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sports TV [B] TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8668
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sports TV TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8737
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sportsnet 360 HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4915
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Sportsnet Ontario HD US
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14317
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 1 FHD VIP IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5431
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 1 IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3979
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 2 FHD IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5430
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 2 IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/397844
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 3 HD IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5429
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Star Sports 3 IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3977
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Telekom Sport 1 [B] RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/128252
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Telekom Sport 1 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53855
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Telekom Sport 2 FHD RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12920
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Telekom Sport 3 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12979
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Telekom Sport 4 RO
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12042
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",TEN Sports FHD IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5433
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ten Sports IN
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10608
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Time Sports AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5770
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tivibu Sport 1 FHD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8725
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tivibu Sport 2 FHD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8724
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tivibu Sport 3 FHD TR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8723
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tring Sport 1 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4721
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tring Sport 2 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21615
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tring Sport 3 HD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4719
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Tring Sport 4 [Match Time] FHD AL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4718
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Viasat Sport FHD RU
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36879
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",VSport Premium HD SE
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5418
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Yas Sport HD AR
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682972
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Yas Sports HD ARB
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623172
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Docu FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5110
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Extra FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625239
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Golf FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5114
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Golf HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6460
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11387
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Racing FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13119
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Racing HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5111
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Select FHD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53267
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Select HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5113
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Voetbal HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5112
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7",Ziggo Sport Votball HD NL
+http://NashyaIPtv@mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5392
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7" ,JapanSport1
+http://NashyaIPtv@193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7"  ,JapanSport2
+http://NashyaIPtv@193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7" ,JapanSport3
+http://NashyaIPtv@193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https:///NashyaIPtv@imgur.com/c7cSOJ7"  ,JapanSport4
+http://NashyaIPtv@193.42.99.130:23455/3670/playlist.m3u8
