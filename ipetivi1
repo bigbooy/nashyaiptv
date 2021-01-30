@@ -226,21 +226,30 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png",FASHIONMIDNIGHTD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/XaQBspc.png",Drakor
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/XaQBspc.png",SinemaIndonesiaX
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",SinemaIndonesiaX
 http://wz.insantv.net/monitor/ch106.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/XaQBspc.png",DrakorPlus
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",DrakorPlus
 http://wz.insantv.net/monitor/ch107.m3u8
 
-#EXTINF:-1 group-title="LOKAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",FTV
+#EXTINF:-1 group-title="LOCAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",FTV
 http://wz.insantv.net/monitor/ch120.m3u8
-#EXTINF:-1 group-title="LOKAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",LapakMusik
+#EXTINF:-1 group-title="LOCAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",LapakMusik
 http://wz.insantv.net/monitor/ch122.m3u8
-#EXTINF:-1 group-title="LOKAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",MyTV
+#EXTINF:-1 group-title="LOCAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",MyTV
 http://wz.insantv.net/monitor/ch123.m3u8
-#EXTINF:-1 group-title="LOKAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",M Channel
+#EXTINF:-1 group-title="LOCAL2" tvg-logo="https://i.imgur.com/XaQBspc.png",M Channel
 http://wz.insantv.net/monitor/ch137.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/zRnsH85.png",Warner TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/zRnsH85.png",AXN HD [NO HW+]
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/zRnsH85.png",AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/zRnsH85.png",WarnerTV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
