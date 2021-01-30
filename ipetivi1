@@ -1612,7 +1612,7 @@ http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png",JAMBI TV
 http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="MY" tvg-logo="https://i.imgur.com/HP4hpMS.jpg",Live Makkah
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/HP4hpMS.jpg",Live Makkah
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
