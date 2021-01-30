@@ -2789,27 +2789,27 @@ http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
 http://mesin.out.airtime.pro:8000/mesin_a
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/J3kIll7.png",INDONESIA-RADIOSERIBATUVOLCANOBALI
 http://volcano.out.airtime.pro:8000/volcano_a
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",KARAOKE CHANNEL
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",MUSIC TOP
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-360/playlist.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",California Music Channel
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",30A Music
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",UTV MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",UTV MUSIC
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",Music Top
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",MTV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",KARAOKE
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",KARAOKE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",Hits
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",Hits
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",MAXSTREAM MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",MAXSTREAM MUSIC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
-#EXTINF:-1 group-title="🎵MUSIC🎵" tvg-logo="https://i.imgur.com/TJHbMcu.png",K pop
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",K pop
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 
 #EXTINF:-1 group-title="✨DTVChannel 🏀⫷🆂🅿🅾🆁🆃⫸⚽✨" tvg-logo="https://imgur.com/c7cSOJ7",AstroSport1
