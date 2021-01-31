@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg&type=m3u_plus&output=ts"
 
-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",SelamatMenikmati @NashyaIPtv
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Adventure
@@ -21,6 +22,22 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg",NetTVhd
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg",NetTV
+https://mkctv.net/siap/usee-net.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg",SCTV
+http://185.238.0.145:1313/c/a/sctv-sd.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" SCTV
+https://mkctv.net/siap/sctv.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" ,INDOSIAR
+https://mkctv.net/siap/indosiar.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="", Intv
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png",Rajawali TV
+https://mkctv.net/siap/usee-rtv.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png"
+http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png"
+http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://images.useetv.com/logo_tvri_big1.png",TVRIcanal3
@@ -33,6 +50,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://kamiselaluada.com/img/eljohn.png",El John TV HD
+https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://kamiselaluada.com/img/nasatv.png",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://kamiselaluada.com/img/magnatv.png",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SinemaIndonesiaX
@@ -155,6 +178,23 @@ http://136.243.177.164/FOXCRIME/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",FOXSportHD1USA
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CelestiaMovie
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",XIAOTAIYANG
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",SHUANGXING
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",BeinMovies1
 http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",BeinMovies2
@@ -275,7 +315,8 @@ https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/zRnsH85.png",WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zRnsH85.png",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_123_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
