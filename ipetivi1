@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg&type=m3u_plus&output=ts"
 
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",SelamatMenikmati @NashyaIPtv
-http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Adventure
@@ -26,17 +25,17 @@ https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u
 https://mkctv.net/siap/usee-net.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg",SCTV
 http://185.238.0.145:1313/c/a/sctv-sd.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" SCTV
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg", SCTV
 https://mkctv.net/siap/sctv.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" ,INDOSIAR
 https://mkctv.net/siap/indosiar.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="", Intv
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png",Rajawali TV
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png",Rajawali TV
 https://mkctv.net/siap/usee-rtv.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png"
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png",TVOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png"
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png",AnTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
@@ -2390,12 +2389,8 @@ http://NashyaIPtv@161.0.157.51/PLTV/88888888/224/3221227040/3.m3u8
 http://NashyaIPtv@161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https:///NashyaIPtv@i.imgur.com/XaQBspc.png",Y
 http://NashyaIPtv@161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
-
-
 #EXTINF:-1 group-title="Malaysia",HBO Asia
 http://fdtvapps.xyz/channel/hbo.m3u8
-
-
 #EXTINF:-1 group-title="Malaysia",AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",HuaHeTai
@@ -2965,6 +2960,34 @@ http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
 http://mesin.out.airtime.pro:8000/mesin_a
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/J3kIll7.png",INDONESIA-RADIOSERIBATUVOLCANOBALI
 http://volcano.out.airtime.pro:8000/volcano_a
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/UFaUY5X.png",Karaoke Chanel
+http://zigfreed.ru/IP0/448.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/UFaUY5X.png",music Karaoke
+https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rrXutG8.jpg",Music TOp
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rrXutG8.jpg",M2OTV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/kqffBBK/mtv.png",MTV NOW
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Music" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png",Afrobeats 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif",Music4U
+http://203.154.243.89:1213
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7oHRbxKOo2pAkoJ3VSw9ARmIjfPHuDs2SyU9TWso2n3Z5-3RJ",MIX
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",California Music
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEqBekJgxnow7bJYYKDoQMtOfUO22uP9bEzSVCYYUGTJABQ8-c",Karaoke Indonesia
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png",MTV+
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE0y1Jo7mTOM6X78bwRQ8BoZ6TgHZnXk2hZE9wmOEfhtrOIae7",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TJHbMcu.png",MUSIC TOP
