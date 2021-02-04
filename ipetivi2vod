@@ -1,536 +1,330 @@
 #EXTM3U
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Canal 2 (袦芯谢写芯胁邪)
-https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Film Box
-http://188.113.190.12/207/video.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",FOX Life HD
-http://188.113.190.12/182/video.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",KINO 24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Paramount Comedy
-http://182.73.122.74:10004/bysid/1108
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",SC-TV
-https://ch.iptvmate.net/506c4e361e871b2d88daea0ef1ed8237.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Long Live the King
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Long.Live.the.King.2019..mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Parasite
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Parasite.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The King's Letters
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kings.Letters.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Extreme Job
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Extreme.Job.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Birthday
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Birthday.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Farewell
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Farewell.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Battle of Jangsari
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Battle.of.Jangsari.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friend Zone
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friend.Zone.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Bad Guys: The Movie
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Bad.Guys.Reign.of.Chaos.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Nightlife Venture
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Quantum.Physics.A.Nightlife.Venture.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ip Man 4: The Finale
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ip.Man.4.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The legend of hammer
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Legend.Of.Hammer.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Fighting Girl
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Fighting.Girl.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Puppet Prince
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Puppet-Prince-2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mr. Zoo: The Missing VIP
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Zoo.The.Missing.VIP.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Crossroads: One Two Jaga
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Crossroads-One-Two-Jaga-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Rampant
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/movies/Rampant-2018.mp4//playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Miss Baek
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Miss-Baek-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Champion
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Champion-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Inuyashiki
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inuyashiki-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mr. Long
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Mr-Long-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Spy Gone North
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Spy.Gone.North.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Snake
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Snake.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BuyBust
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/BuyBust.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Europe Raiders
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Europe-Raiders-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Pool
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Pool.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Escape Plan: The Extractors
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Escape.Plan.The.Extractors.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Innocent Witness
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Innocent.Witness.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",the Devil
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Gangster.The.Cop.The.Devil.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Inside the Boys
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inside-The-Boys-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Night Comes for Us
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Night-Comes-for-Us-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",On Your Wedding Day
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/on-your-wedding-day.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Golden Job
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Goledn.Job.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Great Battle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Great-Battle-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Golden Slumber
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Golden-Slumber-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Dream Breaker
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dream-Breaker-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Searching
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Searching.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Cook Up A Storm
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cook.Up.A.Storm.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Target
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Target.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Trough
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Trough-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Chinese Blade
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Chinese-Blade-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Dark Figure of Crime
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dark-Figure-of-Crime-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Lingering
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Lingering-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Unity of Heroes
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Unity.Of.Heroes.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Tag-Along 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Tag-Along-2-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",V.I.P
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies//V.I.P.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Once Upon a Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Once.Upon.a.Time.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Agent Mr. Chan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Agent-Mr-Chan-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Burning
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Burning-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Bleach
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bleach-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Animal World
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Animal-World-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Fist & Faith
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Fist-and-Faith-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Reborn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Reborn.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Blizzard
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Blizzard-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Buyer Beware
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Buyer-Beware-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Tomb Story
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tomb-Story-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Secret Of Immortal Code
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Secret-Of-Immortal-Code-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Illang: The Wolf Brigade
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Illang-The-Wolf-Brigade-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Operation Red Sea
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Operation.Red.Sea.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",KL Special Force
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KL.Special.Force.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Star Next Door
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Star-Next-Door.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Keys to the Heart
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Keys-to-the-Heart.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Cheese in the Trap
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cheese-in-the-Trap.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Anastasia: Once Upon a Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Anastasia.Once.Upon.a.Time.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Warrant
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Warrant.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",By Light of Desert Night
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/by-light-of-desert-night.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Final Kill
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Final.Kill.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Lurker
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Lurker.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mistakes Were Made
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Timmy.Failure.Mistakes.Were.Made.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Agramon's Gate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Agramons.Gate.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Alien Outbreak
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alien.Outbreak.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Charlie's Angels
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Charlies.Angels.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Cruel Hearts
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Cruel.Hearts.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Next Level
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jumanji.The.Next.Level.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",VFW
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/VFW.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Eve
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eve.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Spy Intervention
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Spy.Intervention.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Isi & Ossi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Isi.and.Ossi.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Kindness of Strangers
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kindness.of.Strangers.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Fantasy Island - HDCAM
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Fantasy.Island.2020.HDCAM..mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sadistic Intentions
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sadistic.Intentions.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Island of Shadows
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Is.There.A.Killer.In.My.Family.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends Who Kill
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friends.Who.Kill.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sisters in Arms
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Soeurs.D.Armes.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Untitled Chris Watts Project
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chris.Watts.Confessions.Of.A.Killer.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Windermere Children
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Windermere.Children.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",21 Bridges
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/21.Bridges.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",S.W.A.T
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/S.W.A.T.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Harriet
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Harriet.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Jojo Rabbit
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jojo.Rabbit.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Beautiful Day in the Neighborhood
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A-Beautiful-Day-in-the-Neighborhood-2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Dragonheart: Vengeance
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dragonheart.Vengeance.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Black Flowers
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Atomic.Apocalypse.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Pilgrim's Progress
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heavenquest.A.Pilgrims.Progress.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Fortress
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Fortress-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Believer
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Believer-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Colour of the Game
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Color.of.the.Game.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",God of War
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/God-of-War-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Kung Fu Traveler 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Kung.Fu.Traveler.2.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Hou Lai De Wo Men
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Hou.lai.de.wo.men.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Last Shot in the Bar
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Last.Shot.in.the.Bar.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Destiny: The Tale of Kamakura
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-Kamakura-2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Heung-boo: The Revolutionist
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Addams Family
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Hidden World
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Kingdom of Music
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Batman: Hush
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Batman vs. Teenage Mutant Ninja Turtles
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Asterix: The Secret of the Magic Potion
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Justice League vs. the Fatal Five
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Howard Lovecraft and the Kingdom of Madness
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Howard.Lovecraft.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Spider-Man: Into the Spider-Verse
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spider-Man-Into-the-Spider-Verse-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ralph Breaks the Internet
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ralph.Breaks.the.Internet.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Henchmen
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Henchmen-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Christopher Robin
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Christopher.Robin.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Two Tails
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Two-Tails-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Smallfoot
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Smallfoot.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Cars 3
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cars.3.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Starship Troopers: Traitor of Mars
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Starship.Troopers.Traitor.of.Mars.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Smurfs: The Lost Village 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Smurfs.The.Lost.Village.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sahara 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Sahara.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The LEGO Batman Movie 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Lego.Batman.The.Movie.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Boss Baby 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Boss.Baby.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Bunyan and Babe 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Bunyan.and.Babe.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Leap! 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Ballerina.2016.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",My Life as a Zucchini 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/My.Life.as.a.Zucchini.2016.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Surf's Up 2: WaveMania
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Surfs.Up.2.WaveMania.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Secret World of Arrietty
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Arrietty.2010.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Wind Rises
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Wind.Rises.2013.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Girl Who Leapt Through Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Girl.Who.Leapt.Through.Time.2006.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Howl's Moving Castle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Howls.Moving.Castle.2004.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",My Neighbor Totoro
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/My.Neighbor.Totoro.1988.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Spirited Away
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Spirited.Away.2001.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sing 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Sing.2016.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Lorax
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/The.Lorax.2012.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Justice League Dark
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Justice.League.Dark.2017.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Moana
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Moana.2016.aflamy.ps.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Wreck-It Ralph
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Wreck.it.Ralph.2012.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Three Stooges
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Three.Stooges.2012.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",ROGUE WARFARE 2
-https://sarontna.club/f/videos/1578058141/bda3469f3a56c4fc9d6bfc83b08ad601/1080p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Terminator: Dark Fate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Maleficent: Mistress of Evil
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Maleficent.Mistress.of.Evil.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Maleficent 2014
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-7/movies/Maleficent.2014.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",賮賷賱賲 Underwater 賲鬲乇噩賲 HD 丕賳鬲丕噩 2020
-https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Night Clerk
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Night.Clerk.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Last Thing He Wanted
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Siccin 6
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",I Am Fear
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/I.Am.Fear.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sniper Corpse
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sniper.Corpse.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Guns Akimbo
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guns.Akimbo.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Richard Jewell
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/richard-jewell.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Hidden Life
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-hidden-life.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Wakefield Project
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-wakefield-project.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mr Jones
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Jones.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Dolittle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dolittle.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Coldest Game
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Coldest.Game.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Adventure Force 5
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Adventure.Force.5.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Playing with Fire
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Playing.with.Fire.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Kindred Spirits
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kindred.Spirits.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The VelociPastor
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Velocipastor.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Just Mercy
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Just.Mercy.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Little Women
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Little.Woman.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Stardust
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Stardust.2007.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ford v Ferrari
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Last Full Measure
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Full.Measure.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Fight for Justice
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Trigonal.Fight.For.Justice.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Battle Star Wars
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Battle.Star.Wars.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Great Alaskan Race
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Great.Alaskan.Race.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",By Dawn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Dawn.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Jessica Forever
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jessica.Forever.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Coda
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Coda.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sleeping with My Student
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sleeping.With.My.Student.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ride Like a Girl
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ride.Like.A.Girl.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Motherless Brooklyn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Motherless.Brooklyn.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Blank
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Blank.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Midway
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Midway.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",24 Little Hours
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/24.Hours.In.London.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Dark Waters
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dark.Waters.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Epiphany
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Epiphany.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Disturbing The Peace
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Disturbing.The.Peace.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",A Fall from Grace
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A.Fall.from.Grace.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",1917
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/1917-2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Nation's Fire
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nations.Fire.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Heritage
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heritage.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Nancy Drew and the Hidden Staircase
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nancy.Drew.and.the.Hidden.Staircase.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Inmate Zero - Patients of a Saint
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inmate.Zero.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Gemini Man
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gemini.Man.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Death of a Nation
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Rogue.Warfare.3.Death.of.a.Nation.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ghost Stories
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ghost.Stories.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Toxicity
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Toxicity.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Mercenary
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Mercenary.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Love Once
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Live.Twice.Love.Once.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Countdown
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Countdown.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mine 9
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mine.9.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Where We Disappear
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Where.We.Disappear.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Abducted on Air - The Lead
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Inherit the Viper
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inherit.The.Viper.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Courier
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Courier.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Three Christs
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Three.Christs.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Fairfield (MT) (Ski Slopes)
-http://76.75.8.116:80/mjpg/video.mjpg
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",San Diego (CA) (Panda 2)
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",San Diego (CA) (Polar Bear)
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sandusky (OH) (Cedar Point Park 1)
-http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sandusky (OH) (Cedar Point Park 2)
-http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Blue Mountains (Craigleith Ski Club)
-http://72.143.50.74:80/mjpg/video.mjpg
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Roses (La Perola Beach)
-https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Salou (Passeig Jaume I)
-http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
-#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mykonos (Old Port)
-https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
-#EXTINF:-1 group-title="VoD Mix",Godzilla: Planet of the Monsters (2017)
-https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
-#EXTINF:-1 group-title="VoD Mix",Almost Christmas (2016)
-https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 group-title="VoD Mix",Nocturnal Animals (2016)
-https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 group-title="VoD Mix",Rules Don't Apply (2016)
-https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 group-title="VoD Mix",Home (2015)
-https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
-#EXTINF:-1 group-title="VoD Mix",The Transporter Refueled (2015)
-https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
-#EXTINF:-1 group-title="VoD Mix",Buck Wild (2014)
-https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 group-title="VoD Mix",Free Fall (2014)
-https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
-#EXTINF:-1 group-title="VoD Mix",Carrie (2013)*
-https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
-#EXTINF:-1 group-title="VoD Mix",Pup (2013)
-https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 group-title="VoD Mix",Woggie (2012)
-https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
-#EXTINF:-1 group-title="VoD Mix",Chiaroscuro Baby (2009)
-https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Home (2009)
-https://archive.org/download/Home2009/Home2009_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",The Chinese Room (2009)
-https://archive.org/download/TheChineseRoom/thechineseroom.mp4
-#EXTINF:-1 group-title="VoD Mix",Big Buck Bunny (2008)
-https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Sita Sings the Blues (2008)
-https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
-#EXTINF:-1 group-title="VoD Mix",Sobaka (2008)
-https://archive.org/download/Sobaka/sobaka.mp4
-#EXTINF:-1 group-title="VoD Mix",Insecurity (2007)
-https://archive.org/download/insecurity/Insecurity_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Steal This Film 2 (2007)
-https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Zeitgeist - The Movie (2007)
-https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Bah Humduck! - A Looney Tunes Christmas (2006)
-https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 group-title="VoD Mix",Children of Men (2006)
-https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
-#EXTINF:-1 group-title="VoD Mix",Elephants Dream (2006)
-https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Steal This Film (2006)
-https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Step Up (2006)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 group-title="VoD Mix",Wholesale Souls Inc. (2006)
-https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Between Hurricanes (2005)
-https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",The Exorcism of Emily Rose (2005)
-https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
-#EXTINF:-1 group-title="VoD Mix",Godzilla: Final Wars (2004)
-https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
-#EXTINF:-1 group-title="VoD Mix",Limbo (2004)
-https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Battle Royale II - Requiem (2003)
-https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
-#EXTINF:-1 group-title="VoD Mix",Honey (2003)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 group-title="VoD Mix",Looney Tunes Back in Action (2003)
-https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 group-title="VoD Mix",Nobody Needs To Know (2003)
-https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
-#EXTINF:-1 group-title="VoD Mix",Dragon Ball Z: Fusion - Last Saiyan (2002)
-https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
-#EXTINF:-1 group-title="VoD Mix",Godzilla Against Mechagodzilla (2002)
-https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
-#EXTINF:-1 group-title="VoD Mix",Battle Royale (2000) [EN-Subs]
-https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
-#EXTINF:-1 group-title="VoD Mix",Men of Honor (2000)
-https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 group-title="VoD Mix",Tweety's High Flying Adventure (2000)
-https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 group-title="VoD Mix",The Water Monster (2019 Bluray no sub)
-https://bili.meijuzuida.com/20190712/20451_474aae76/800k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",0182268_AL_.jpg group-title=VOD MOVIES US Ip Man 4:The Finale
-https://bili.meijuzuida.com/20191220/22118_d031b52c/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Invasion Planet Earth (2019
-https://bilibili.com-h-bilibili.com/20191216/10229_e315e14e/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD PILIHAN" tvg-logo="http://goodguymovies.com/images/Legacy/Disney/Onward-2020.jpg",Onward (2020)
-https://bit.ly/2VpHO6S
-#EXTINF:-1 group-title="VOD PILIHAN" tvg-logo="https://asianwiki.com/images/8/8d/Secret_Zoo-P1.jpg",Secret Zoo (2020)
-https://bit.ly/2KlEm6V
-#EXTINF:-1 group-title="VoD Horor",Mata Batin 2 (2019)
-https://bit.ly/39nQe33
+#EXTINF:-1 group-title="VOD CAMPURAN",IP MAN 4 : THE FINALE 2019 {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1rsGz48z_yPt5r3Bl42XK398lQnSEn2hz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD CAMPURAN",MALEFICENT: MISTRESS OF EVIL 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/01-08-2020/Maleficent.Mistress.Of.Evil.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",KNIVES OUT 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/01-08-2020/Knives.Out.2019.DVDScr.XVID.AC3.HQ.Hive-CM8.mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",ZOMBIELAND: DOUBLE TAP 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/01-06-2020/Zombieland.Double.Tap.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",JOHN WICK 3 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/John.Wick.3/John.Wick.3.Parabellum.2019.720p.BluRay.x264-Pahe.in.mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",GOZZILLA 2 :KING OF MONSTER 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/reupload/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-[YTS.LT].vtt
+#EXTINF:-1 group-title="VOD CAMPURAN",THE LION KING 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-01-2019/The.Lion.King.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",IT CHAPTER 2 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/11-21-2019/It.Chapter.Two.2019.720p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",SCARY STORIES 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-04-2019/Scary.Stories.To.Tell.In.The.Dark.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",SHAZAM 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-02-2019/Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",STUBER 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/10-12-2019/Stuber.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",CRAWL 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/10-12-2019/Crawl.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",ALADDIN 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/11-19-2019/Adventures.Of.Aladdin.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",TRAIN YOUR DRAGON 3 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-02-2019/How.To.Train.Your.Dragon.The.Hidden.World.2019.720p.BluRay.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",ANGRI BIRD 2 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-04-2019/The.Angry.Birds.Movie.2.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",15 MINUTES OF WAR  2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-05-2019/15.Minutes.Of.War.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",THE ART OF RACING IN THE RAIN 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-04-2019/The.Art.Of.Racing.In.The.Rain.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",THE KILL TEAM 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/11-05-2019/The.Kill.Team.2019.720p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",THE BAD GUYS: REIGN OF CHAOS 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/12-03-2019/The%20Bad%20Guys-Reign%20Of%20Chaos.2019.ALL.WEB-DL.WEB-Rip.HD-Rip.480p-720p-1080p.id.mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",IP MAN AND FOUR KINGS 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1pzdFGlahzU_FIjhFC3RHClDyd-FKC-z0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD CAMPURAN",ANGEL HAS FALLEN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F25R3Hiyq6XptGfzTXPs8sx0z8shzCgn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD CAMPURAN",DANGER CLOSE : THE BATTLE OF LONG TAN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1FUqQQDYL46LaL8czZ7VLoBTMaLvBsqyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD CAMPURAN",READY OR NOT 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F_fFvFPPLySHaKT23wGCuHdE0Ery-tVv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD CAMPURAN",JOKER 2019 {Sub Indo}
+https://cdn.zaccar.ru//movies/12-03-2019/Joker.2019.720p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",GEMINI MAN 2019 {Sub Indo}
+https://zaccar.b-cdn.net/movies/01-08-2020/Gemini.Man.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",AQUAMAN {Sub Indo}
+https://cdn.zaccar.ru//movies/12-02-2019/Aquaman.2018.720p.BluRay.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",VENOM
+https://cdn.zaccar.ru//movies/12-02-2019/Venom.2018.720p.BluRay.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="VOD FILM INDONESIA",CINTA ITU BUTA (2019)
+https://cdn.zaccar.ru//movies/01-08-2020/Cinta.Itu.Buta.2019.1080p.mp4
+#EXTINF:-1 group-title="VOD FILM INDONESIA",DUA GARIS BIRU (2019)
+https://cdn.zaccar.ru//movies/01-10-2020/Dua.Garis.Biru.2019.WEB-DL.1080p.FMZM.mp4
+#EXTINF:-1 group-title="VOD FILM INDONESIA",Valentine (superhero indo)
+https://cdn.zaccar.ru//movies/11-25-2019/Valentine.2017.720p.WEBRip.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="VOD FILM INDONESIA",REVENGE OF THE PONTIANAK (2019)
+https://www.googleapis.com/drive/v3/files/1qnAlHCqu8kqJXq_MsROiv4xdY5osVx6V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD FILM INDONESIA",MATA BATIN 2 (2019)
+https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",Batman: Hush (2019)
+https://cdn.zaccar.ru//movies/11-18-2019/Batman.Hush.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",Pokemon Detective Pikachu (2019)
+https://zaccar.b-cdn.net/movies/11-12-2019/Pok%C3%A9mon.Detective.Pikachu.2019.720p.BluRay.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",The Immortal War : Resurgence (2019)
+https://cdn.zaccar.ru//movies/11-18-2019/The.Immortal.Wars.Resurgence.2019.720p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD CAMPURAN",Hollow Point (2019)
+https://cdn.zaccar.ru//movies/11-19-2019/Hollow.Point.2019.720p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="VOD MANDARIN",Chinese Ghost Story 3: The Enchanting Phantom (2020)
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+#EXTINF:-1 group-title="VOD MANDARIN",南海美人鲛 (South Sea Beauty Shark)
+https://douban.donghongzuida.com/20200510/1852_b0fb2b18/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",Reborn
+http://srv30.nf21.net/files/11-2018-12-25-8bbff1bc38c625aaf74804dbdfb73fe7.mp4
+#EXTINF:-1 group-title="VOD MANDARIN",Running Man
+http://srv32.nf21.net/files/15-2020-04-25-945da31d92d773f1ceea59cdc7549368.mp4
+#EXTINF:-1 group-title="VOD MANDARIN",The Emperor's Sword
+https://www.googleapis.com/drive/v3/files/1DFoF0tqlCZC4j83VOcXWfhaJLfQSS5Ga?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",The Lockdown: One Month in Wuhan
+https://www.googleapis.com/drive/v3/files/1lk00-80rKXeGwhd45gZfaMl7e831dGdU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Door Lock
+https://www.googleapis.com/drive/v3/files/1zKoGOyOPYvAh3bwXIdGN1oMNGcnno_ct?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Commitment
+https://www.googleapis.com/drive/v3/files/15B9m2asQfvP7PQr-2iULzga4EzEuW6Ji?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Zhong Kui Returns to All Evil Spirits (2020)
+https://xigua-cdn.haima-zuida.com/20200129/1479_5a683c7b/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",古剑奇谭之伏魔纪 (Gu Jian Qi Tan Zhi Fu Mo Ji 2020)
+https://hong.tianzhen-zuida.com/20200128/19374_9f28d3f7/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",Rebirth of the Nympho
+https://youku.com-zx-iqiyi.com/20200127/11894_206bb145/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",Legend of Chenzhen
+https://youku.mhyunbo.com/20191117/riRZ5Emf/1200kb/hls/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",The Grandmaster
+https://www.googleapis.com/drive/v3/files/1OrBIAk6m-goe0kmvssoJwRdpmRWrcyd1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Rise of The Legend
+https://www.googleapis.com/drive/v3/files/1S_WmFKtG_5WKUZnw1B63muZn0rRLrEN-?alt=media&key=AIzaSyDaCTxBCf3N6kZC2s0nPuPHyFvNBcBmxN8
+#EXTINF:-1 group-title="VOD MANDARIN",Long Long Time Ago 2
+https://yi.jingdianzuida.com/20191030/02bdBfzl/index.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",Go Lala Go 2
+https://www.googleapis.com/drive/v3/files/0B2PrCbdr77dzY29OdzNmQTdsaW8?alt=media&key=AIzaSyDaCTxBCf3N6kZC2s0nPuPHyFvNBcBmxN8
+#EXTINF:-1 group-title="VOD MANDARIN",The Villainess
+https://www.googleapis.com/drive/v3/files/1-z4RrUYFINjlS63YZdho3CiEUypkYvSg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Let The Bullets Fly
+https://www.googleapis.com/drive/v3/files/0B6fR2tWrU4myYXZlTWRLdWc2ODg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MANDARIN",Legend of The Demon Seal (2019)
+https://www.googleapis.com/drive/v3/files/12vNh3PQq1mAhriClExjptyJBgiXDhRwM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Soccer Killer (2017)
+https://www.googleapis.com/drive/v3/files/1oFkKYpC1lHNK0CEO2g32nLO4ph41twqI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",League Of Gods (2018)
+https://www.googleapis.com/drive/v3/files/1xvHO_8ICTTxnDWnQxXUHfRBfKMknAxRU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Monster Hunt 2 (2018)
+https://www.googleapis.com/drive/v3/files/1eDjgu_2LLV0tFK_WH4hSjMtYCbeZ7He2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Tea Pets (2017)
+https://www.googleapis.com/drive/v3/files/1aPNAQq2jDid57FVTC_NSSbTQpO9pylFI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Bleeding Steel (2017)
+https://www.googleapis.com/drive/v3/files/1xVBL-U7j6J7VBhCUsQPzpj6jqMFK7nyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",The Thousand Faces of Dunjia (2017)
+https://www.googleapis.com/drive/v3/files/1lkKS2ggW8-xWn2XJOjEzp5Vv1UjGzBud?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Operation Mekong (2016)
+https://www.googleapis.com/drive/v3/files/1jw6rCnj9QqZKYPYoMKs4b86ZCkTsZkt_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Crying Out in Love (2016)
+https://www.googleapis.com/drive/v3/files/1kXA9nsKYdLyAagHkwrY8K9CQ0EGuEWQq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",A Journey Through Time With Anthony (2015)
+https://www.googleapis.com/drive/v3/files/1CRij6VbRALpu5eKINzsBsKyg0lnWrwLu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Red Cliff 1 (2008)
+https://www.googleapis.com/drive/v3/files/1I47wx8nsl5ICJ6JLAc5bU2Y2RD6SbAlp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Red cliff 2 (2009)
+https://www.googleapis.com/drive/v3/files/1NNmqhEqTqgQ0m2M5W2orlJW0JFopngw6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",The Final Master (2015)
+https://www.googleapis.com/drive/v3/files/1KPswaK2n76VD91b2-HiAZmBDDyTpBkbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Chasing The Dragon
+https://www.googleapis.com/drive/v3/files/1Uv3auqB3gANJ_RPwlDmepMkQPh1gd4YF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIE INDO",Moorise Over Egypt (2020)
 https://bobo.kukucdn.com/20200530/16167_ae136884/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",THE TWO POPE(2019)
-https://broad-king-f11f.bsok.workers.dev/the.two.popes.2019.internal.1080p.web.x264-strife.mkv
-#EXTINF:-1 group-title="VoD Kidos",WOODY WOODPECKER
-https://c.top4top.io/m_1478rfrct1.mp4
-#EXTINF:-1 group-title="VoD Kidos",TOM and JERY 2
-https://c.top4top.io/m_1477kp8904.mp4
-#EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (12)
-https://c.top4top.io/m_14777ens64.mp4
-#EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (34)
-https://c.top4top.io/m_1478z2r0g8.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Hanum &amp; Rangga: Faith &amp; The City (2018)
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Alas Pati (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Rompis (2018)
+http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:-1 group-title="MOVIE INDO",The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+#EXTINF:-1 group-title="MOVIE INDO",Arini (2018)
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:-1 group-title="MOVIE INDO",London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:-1 group-title="MOVIE INDO",My Stupid Bos (2016)
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Revan &amp; Reina (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Partikelir (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Flight 555 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Suatu Hari Nanti (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:-1 group-title="MOVIE INDO",5 Cowok Jagoan (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Warkop DKI Reborn: Jangkrik Boss Part 2
+http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Cek Toko Sebelah (2016)
+http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Galih Dan Ratna (2017)
+http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:-1 group-title="MOVIE INDO",Sepatu Dahlan (2014)
+http://srv28.nf21.net:80/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",The One
+http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",onkey King 3: Love Tribulation (2020)
+https://douban.donghongzuida.com/20200529/2716_3f749d73/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Are We in Love? (2020)
+http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Swan Princess : Kingdom of Music (2019)
+https://lh3.googleusercontent.com/CWjQu_O94IB-kK5NPNUGxYXz-awys552O6lXKaBLl0XoITFqN5EFoTBkoINU4QJoVPFPteDDq0MHE13gXg=m22
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Monkey King: Hero
+https://yiyi.55zuiday.com/20181214/ZhAur8CC/800kb/hls/index.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Courier (2019 Bluray no sub)
+https://haoa.haozuida.com/20191122/YvDQ7sYZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Frozen 2 no sub
+https://meng.wuyou-zuida.com/20191122/22590_cc8dd6ad/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Wrath of Vajra
+http://srv28.nf21.net/files/6-2019-02-06-21f2dae4600cea8e5d396a20b19af972.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Ong Bak: The Thai Warrior
+http://srv33.nf21.net/files/15-2020-05-20-7a9d9ddfb1d72847ffc9e99842516978.mp4
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",0182268_AL_.jpg group-title=VOD MOVIES US Ip Man 4:The Finale
+https://bili.meijuzuida.com/20191220/22118_d031b52c/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",THE AERONAUTS(2019)
+https://red-mud-57e2.mandaluo.workers.dev/The.Aeronauts.2019.1080p.AMZN.WEBRip.DD5.1.x264-FGT.mkv
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",aku masih blm tau juga judulnya
+https://hong.tianzhen-zuida.com/20191216/16236_4e2be689/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",Invasion Planet Earth (2019
+https://bilibili.com-h-bilibili.com/20191216/10229_e315e14e/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",A Fantastic Encounter (2019
+https://youku.com-zx-iqiyi.com/20191213/10052_4e97ab42/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",Code 82019 (2019
+https://youku.com-zx-iqiyi.com/20191213/10048_ca83eeed/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",Underground (2019
+https://youku.com-zx-iqiyi.com/20191213/10055_1f78a5f9/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",IP Man Kungfu Master (2019 HD no sub)
+https://youku.cdn7-okzy.com/20191223/16350_08be0641/1000k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD FILM CAMPURAN",IP Man 4: The Finale (2019 hd cam no sub)
+https://iqiyi.com-ok-iqiyi.com/20191221/12018_01ba4b36/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="VOD FILM CAMPURAN II",DE : Hellboy - Call of Darkness (2019)
 http://casabasel.webhop.me:12000/tedesco/2019/05/Hellboy.-.Call.of.Darkness.2019.German.mkv
 #EXTINF:-1 group-title="VOD FILM CAMPURAN II",DE : Shazam! (2019)
@@ -957,6 +751,228 @@ http://casabasel.webhop.me:12000/italiano/2017/07/Fullmetal.Alchemist.2017.mkv
 http://casabasel.webhop.me:12000/italiano/2017/azione/Fottute.2017.mkv
 #EXTINF:-1 group-title="VOD FILM CAMPURAN II",IT : First Kill
 http://casabasel.webhop.me:12000/italiano/2017/azione/First.Kill.2017.mkv
+#EXTINF:-1 group-title="VOD",MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+#EXTINF:-1 group-title="VOD",Satu Suro (2019)
+https://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+#EXTINF:-1 group-title="FILM ARAB",نا صغيرين الحلقة 1 HD
+https://cdn.alarab.com/h264/154493_240p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة 2 HD
+https://cdn.alarab.com/h264/154540_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة 3
+https://cdn.alarab.com/h264/154625_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة 4
+https://cdn.alarab.com/h264/154708_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة 5
+https://cdn.alarab.com/h264/154767_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة 6
+https://cdn.alarab.com/h264/154856_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة7
+https://cdn.alarab.com/h264/154924_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة8
+https://cdn.alarab.com/h264/154998_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة9
+https://cdn.alarab.com/h264/155066_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة10
+https://cdn.alarab.com/h264/155143_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة11
+https://cdn.alarab.com/h264/155218_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة12
+https://cdn.alarab.com/h264/155295_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة13
+https://cdn.alarab.com/h264/155372_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة14
+https://cdn.alarab.com/h264/155453_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",لما كنا صغيرين الحلقة15
+https://cdn.alarab.com/h264/155524_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 1
+https://cdn.alarab.com/h264/154402_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 2 HD
+https://cdn.alarab.com/h264/154519_240p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 3
+https://cdn.alarab.com/h264/154599_240p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 4
+https://cdn.alarab.com/h264/154689_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 5
+https://cdn.alarab.com/h264/154764_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة 6
+https://cdn.alarab.com/h264/154844_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة7
+https://cdn.alarab.com/h264/154918_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة8
+https://cdn.alarab.com/h264/154987_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة9
+https://cdn.alarab.com/h264/155061_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة10
+https://cdn.alarab.com/h264/155130_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة11
+https://cdn.alarab.com/h264/155208_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة12
+https://cdn.alarab.com/h264/155286_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة13
+https://cdn.alarab.com/h264/155364_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة14
+https://cdn.alarab.com/h264/155443_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="FILM ARAB",فلانتينو الحلقة15
+https://cdn.alarab.com/h264/155512_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="VOD",The Twilight : NEW MOON (2009)
+https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
+#EXTINF:-1 group-title="VOD",The Twilight : ECLIPSE (2010)
+https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
+#EXTINF:-1 group-title="VOD",Cek Toko Sebelah
+https://www.dropbox.com/s/3r67w11s71y6aod/%5BIndoShare%20Film%5D%20Cek%20Toko%20Sebelah%20%282016%29%20720p.mkv?dl=1
+#EXTINF:-1 group-title="VOD",The Assistant (2019)
+https://www.dropbox.com/s/7lx17iabc0tho4k/%5BFILMAPIK.INFO%5D%20-%20The%20Assistant%20%282019%29_2.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Iru Mugan
+https://www.dropbox.com/s/3txkiawva4obm1k/iru%20mugan.mp4?dl=1
+#EXTINF:-1 group-title="VOD",The Spy Undercover Operation
+https://www.dropbox.com/s/sxtdu9o5b5e6m3j/the%20spy%20undercover%20operation.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Saaho
+https://www.dropbox.com/s/1z29nes2fubrbsy/sahoo.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Parasite
+https://www.dropbox.com/s/c7e9xfwi8q703yn/Nonton%20Film%20Parasite%20%282019%29%20Subtitle%20Indonesia%20_%20XX1%20Filmapik.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Maleficent 2014
+https://www.dropbox.com/s/84y4y75g83i4tod/Nonton.%20Movie%20Maleficent%20%282014%29%20Sub%20Indo%20-%20XX1%20Film%20Bioskop%20Terbaru%20Layarkaca%2021%20LK21.mp4?dl=1
+#EXTINF:-1 group-title="VOD",CHAPPIE (2015)
+https://www.dropbox.com/s/t5ccb31y2zn6ik9/%5BFILMAPIK.CA%5D%20-%20Chappie%20%282015%29_2.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Star Wars- The Rise of Skywalker (2019)
+https://www.dropbox.com/s/5l1w2evf17jvedw/%5BFILMAPIK.CA%5D%20-%20Star%20Wars-%20The%20Rise%20of%20Skywalker%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Logan 2017
+https://www.dropbox.com/s/xrce0ot7lp83m6f/%5BFILMAPIK.CA%5D%20-%20Logan%20%282017%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",DEADPOOL 2016
+https://www.dropbox.com/s/t3ibj44fcaaqhvy/%5BFILMAPIK.CA%5D%20-%20Deadpool%20%282016%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",EPISODE 7 - THE FLASH SEASON 6
+https://www.dropbox.com/s/58fa949um2cl56m/Nonton%20TV%20Series%20The%20Flash-%206x5%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+#EXTINF:-1 group-title="VOD",EPISODE 4 - THE FLASH SEASON 6
+https://www.dropbox.com/s/ha49l09n8yzc5o9/Nonton%20TV%20Series%20The%20Flash-%206x3%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+#EXTINF:-1 group-title="VOD",EPISODE 2 - THE FLASH SEASON 6
+https://www.dropbox.com/s/swb65r6bkma9wcn/video_2.mp4?dl=1
+#EXTINF:-1 group-title="VOD",EPISODE 1 - THE FLASH SEASON 6
+https://www.dropbox.com/s/fmp5w42i5sbn18j/video.mp4?dl=1
+#EXTINF:-1 group-title="VOD",INTO THE SUN 2005
+https://www.dropbox.com/s/t34wk1f8km3ik6k/%5BFILMAPIK.CA%5D%20-%20Into%20the%20Sun%20%282005%29.mp4.CA%5D%20-%20Into%20the%20Sun%20%282005%29?dl=1
+#EXTINF:-1 group-title="VOD",All in 2020
+https://www.dropbox.com/s/jbu7htx11xkuaz8/%5BFILMAPIK.CA%5D%20-%20All%20In%20%282012%29.mp4.CA%5D%20-%20All%20In%20%282012%29?dl=1
+#EXTINF:-1 group-title="VOD",Dora and The Lost City of Gold 2019
+https://www.dropbox.com/s/1cytiv6ikw3v6va/%5BFILMAPIK.CA%5D%20-%20Dora%20and%20the%20Lost%20City%20of%20Gold%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",HUSTLERS 2019
+https://www.dropbox.com/s/y14ynqnfumxv38l/%5BFILMAPIK.CA%5D%20-%20Hustlers%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",AMERICAN EXIT 2019
+https://www.dropbox.com/s/bqh5jzcevqbtvvb/%5BFILMAPIK.ID%5D%20-%20American%20Exit%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",TITUS 1999
+https://www.dropbox.com/s/6mvelzxd8k9nu6k/Titus%201999.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Warkop DKI - Mana Tahan
+https://www.dropbox.com/s/f64h7truysnswta/Warkop%20Dki%20-%20Mana%20Tahan%20%281979%29%20Full%20HQ.mp4?dl=1
+#EXTINF:-1 group-title="VOD",The Corrupted 2019
+https://www.dropbox.com/s/owtbs3mv6eg96i9/%5BFILMAPIK.ID%5D%20-%20The%20Corrupted%20%282019%29%20-%20Google%20Drive.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Pete Davidson Alive From New York 2020
+https://www.dropbox.com/s/ycwxv7ioq846fpq/%5BFILMAPIK.ID%5D%20-%20Pete%20Davidson-%20Alive%20from%20New%20York%20%282020%29%20-%20Google%20Drive.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Money
+https://www.dropbox.com/s/op3ouomi74q31cv/%5BFILMAPIK.CA%5D%20-%20Money%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Independence Day Resurgence 2016
+https://www.dropbox.com/s/ls1la7l3tvxqe3c/%5BFILMAPIK.CA%5D%20-%20Independence%20Day-%20Resurgence%20%282016%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Queen Salim
+https://www.dropbox.com/s/u8inpha1vyourpz/queen%20salim.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Cupid 2020
+https://www.dropbox.com/s/dkhjiovqc164g4f/cupid%202020.mp4?dl=1
+#EXTINF:-1 group-title="VOD",To All Boys
+https://www.dropbox.com/s/ycsjkpk9exrs76m/%5BFILMAPIK.CA%5D%20-%20To%20All%20the%20Boys-%20P.S.%20I%20Still%20Love%20You%20%282020%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Enter The Fat Dragon
+https://www.dropbox.com/s/6a3qlf8wm21405k/%5BFILMAPIK.ID%5D%20-%20Enter%20the%20Fat%20Dragon%20%282020%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Disturbing The Peace
+https://www.dropbox.com/s/ng6iwqq2z0jphhj/%5BFILMAPIK.ID%5D%20-%20Disturbing%20the%20Peace%20%282020%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Jumanji Next Level
+https://www.dropbox.com/s/yv8i72gf2tx9vm8/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf%20%281%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Jumanji Next Level Backup
+https://www.dropbox.com/s/c92k4a61aqdbrx2/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Midway 2019
+https://www.dropbox.com/s/wb68greo0bp4l3t/%5BFILMAPIK.CA%5D%20-%20Midway%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Midway 2019 backup
+https://www.dropbox.com/s/bv631y4ipz5q25s/%5BFILMAPIK.CA%5D%20-%20Midway%20%282019%29.mp4?dl=1
+#EXTINF:-1 group-title="VOD",Gundala (2019) [Backup]
+http://www.supercartube.com/media/videos/h264/999_720p.mp4
+#EXTINF:-1 group-title="VOD",HER (2013)
+https://lh3.googleusercontent.com/CTVl1ZdIVmb6CO3U-ydOHk70u4gxH8Ye9PXkKmO5GPGM1qFOUag1jKny1ukL1iLSB5ktFlnzvlbmxHqpBA=m22
+#EXTINF:-1 group-title="VOD INDONESIA",I Know What You Did on Facebook
+https://dl.dropboxusercontent.com/s/e9121rtwyzx3odv/1%20I%20Know%20What%20You%20Did%20on%20Facebook.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Kentut
+https://dl.dropboxusercontent.com/s/r6r0x7afiksk658/2%20Kentut.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Identitas
+https://dl.dropboxusercontent.com/s/juttndjjkfpen4v/3%20Identitas.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Magic Hour
+https://dl.dropboxusercontent.com/s/2stabpnq5jxhxqc/4%20Magic%20Hour.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Bintang di Langit Belitong
+https://dl.dropboxusercontent.com/s/gei5oabqnwjz7gb/5%20Bintang%20di%20Langit%20Belitong.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Republik Twitter
+https://dl.dropboxusercontent.com/s/96r80uhb6v4dtc5/6%20Republik%20Twitter.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",The Mentalist
+https://dl.dropboxusercontent.com/s/a6mniyfl87hz60m/7%20The%20Mentalist.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Pengakuan Seorang Pelacur
+https://dl.dropboxusercontent.com/s/6983olstgq5xsl8/8%20Pengakuan%20Seorang%20Pelacur.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Rocker Balik Kampung
+https://dl.dropboxusercontent.com/s/0cmkqcfr8rah83t/9%20Rocker%20Balik%20Kampung.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Penari Malam
+https://dl.dropboxusercontent.com/s/stcruwgxmcf0k84/10%20Penari%20Malam.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",Akibat Hamil Muda
+https://dl.dropboxusercontent.com/s/vw3j3ypxpmsemy6/11%20Akibat%20Hamil%20Muda.m3u8?dl=0
+#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - GENGSI DONG
+https://www.dropbox.com/s/ez3m3rq2fdmd7y0/WARKOP%20DKI%20%28Gengsi%20Dong%29%201980%20FULL%20HQ.mp4?dl=1
+#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - MANUSIA 6 JUTA DOLAR
+https://www.dropbox.com/s/kgg99bsdbne8l34/%5BKomedi%5D%20Warkop%20DKI%20-%20Manusia%206%20Juta%20Dolar.mp4?dl=1
+#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - PINTAR PINTAR BODOH
+https://www.dropbox.com/s/1dg810f032qcca0/Warkop%20DKI%20Pintar%20pintar%20Bodoh%201980.mp4?dl=1
+#EXTINF:-1 group-title="MOVIES INDIA",Ghost (2019)
+https://lh3.googleusercontent.com/SRJ95uOmmzmKBHySN2MnQYqXnC1IyWcX3p5RaTxbT-7Cf2oAl3V1OXNYFdlrU3jr63_9hw8jzR0GwCCvhg=m18
+#EXTINF:-1 group-title="MOVIES INDIA",No name
+https://lh3.googleusercontent.com/UnKfilWihOuyv1PG_iDODkwx7hwxPU9hVVO2M4Z4ZlcbsOOOr9p7O5hbFGZVEF2Eb0pYdVNh-atmU-GJWw=m22
+#EXTINF:-1 group-title="MOVIES INDIA",Pal Pal Dil Ke Paas (2019)
+https://lh3.googleusercontent.com/YEkrSKdMXDSxMbqCQGyidtH7ZKQt-p7LjvSp4_RUwUDkGu3H4LD4WuvW6Ig8Fw4g1LQ7Se5w5ZKO4tQ50w=m18
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Canal 2 (袦芯谢写芯胁邪)
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Film Box
+http://188.113.190.12/207/video.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",FOX Life HD
+http://188.113.190.12/182/video.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",KINO 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",SC-TV
+https://ch.iptvmate.net/506c4e361e871b2d88daea0ef1ed8237.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",賮賷賱賲 Underwater 賲鬲乇噩賲 HD 丕賳鬲丕噩 2020
+https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Fairfield (MT) (Ski Slopes)
+http://76.75.8.116:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",San Diego (CA) (Panda 2)
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",San Diego (CA) (Polar Bear)
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sandusky (OH) (Cedar Point Park 1)
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sandusky (OH) (Cedar Point Park 2)
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Blue Mountains (Craigleith Ski Club)
+http://72.143.50.74:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Roses (La Perola Beach)
+https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Salou (Passeig Jaume I)
+http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
+#EXTINF:-1 group-title="VOD Mix" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Mykonos (Old Port)
+https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
+#EXTINF:-1 group-title="VoD Mix",The Water Monster (2019 Bluray no sub)
+https://bili.meijuzuida.com/20190712/20451_474aae76/800k/hls/index.m3u8
+#EXTINF:-1 group-title="VOD PILIHAN" tvg-logo="http://goodguymovies.com/images/Legacy/Disney/Onward-2020.jpg",Onward (2020)
+https://bit.ly/2VpHO6S
+#EXTINF:-1 group-title="VOD PILIHAN" tvg-logo="https://asianwiki.com/images/8/8d/Secret_Zoo-P1.jpg",Secret Zoo (2020)
+https://bit.ly/2KlEm6V
+#EXTINF:-1 group-title="VoD Horor",Mata Batin 2 (2019)
+https://bit.ly/39nQe33
+#EXTINF:-1 group-title="VoD Kidos",WOODY WOODPECKER
+https://c.top4top.io/m_1478rfrct1.mp4
+#EXTINF:-1 group-title="VoD Kidos",TOM and JERY 2
+https://c.top4top.io/m_1477kp8904.mp4
+#EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (12)
+https://c.top4top.io/m_14777ens64.mp4
+#EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (34)
+https://c.top4top.io/m_1478z2r0g8.mp4
 #EXTINF:-1 group-title="VoD Mix",Sniper 1 (1993)
 https://cdn.badroids.is/vod/disk2/movies/sprgst.mp4
 #EXTINF:-1 group-title="VoD Mix",Sniper 7 Ultimate Kill (2017)
@@ -985,196 +1001,8 @@ https://cdn.jebriko.ru/vod/disk3/movies/qqwerty.mp4
 https://cdn.livedoomovies.com/playlist/7e9fd60840dc02c16767662fc6532b56/1582346525700.m3u8
 #EXTINF:-1 group-title="VoD Mix",World War Z (2013)
 https://cdn.movietok.is/vod/disk3/movies/warzz3.mp4
-#EXTINF:-1 group-title="VOD INDO",MATA BATIN 2 (2019)
-https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
-#EXTINF:-1 group-title="VOD INDONESIA",CINTA ITU BUTA (2019)
-https://cdn.zaccar.ru//movies/01-08-2020/Cinta.Itu.Buta.2019.1080p.mp4
-#EXTINF:-1 group-title="VOD INDONESIA",DUA GARIS BIRU (2019)
-https://cdn.zaccar.ru//movies/01-10-2020/Dua.Garis.Biru.2019.WEB-DL.1080p.FMZM.mp4
-#EXTINF:-1 group-title="VOD INDONESIA",Valentine (superhero indo)
-https://cdn.zaccar.ru//movies/11-25-2019/Valentine.2017.720p.WEBRip.x264-[YTS.AM].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",Batman: Hush (2019)
-https://cdn.zaccar.ru//movies/11-18-2019/Batman.Hush.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",The Immortal War : Resurgence (2019)
-https://cdn.zaccar.ru//movies/11-18-2019/The.Immortal.Wars.Resurgence.2019.720p.WEBRip.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",Hollow Point (2019)
-https://cdn.zaccar.ru//movies/11-19-2019/Hollow.Point.2019.720p.WEBRip.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",KNIVES OUT 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/01-08-2020/Knives.Out.2019.DVDScr.XVID.AC3.HQ.Hive-CM8.mp4
-#EXTINF:-1 group-title="VOD PILIHAN",ZOMBIELAND: DOUBLE TAP 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/01-06-2020/Zombieland.Double.Tap.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",IT CHAPTER 2 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/11-21-2019/It.Chapter.Two.2019.720p.WEBRip.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",ALADDIN 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/11-19-2019/Adventures.Of.Aladdin.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",THE BAD GUYS: REIGN OF CHAOS 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/12-03-2019/The%20Bad%20Guys-Reign%20Of%20Chaos.2019.ALL.WEB-DL.WEB-Rip.HD-Rip.480p-720p-1080p.id.mp4
-#EXTINF:-1 group-title="VOD PILIHAN",JOKER 2019 {Sub Indo}
-https://cdn.zaccar.ru//movies/12-03-2019/Joker.2019.720p.WEBRip.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",AQUAMAN {Sub Indo}
-https://cdn.zaccar.ru//movies/12-02-2019/Aquaman.2018.720p.BluRay.x264-[YTS.AM].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",VENOM
-https://cdn.zaccar.ru//movies/12-02-2019/Venom.2018.720p.BluRay.x264-[YTS.AM].mp4
-#EXTINF:-1 group-title="VoD Mix",Annabelle: Creation (2017)
-http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-#EXTINF:-1 group-title="VoD Mix",Wish Upon (2017)
-http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
 #EXTINF:-1 group-title="VOD ID",MATA BATIN 2 (2019)
 https://cinemakeren21.com/movies/01-10-2020/Mata.Batin.2.(2019).mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E01
-https://cldup.com/u0noac5gAZU/4CYedl.mp4?download=fbr.my.iD.Mr.Robot.S03E01.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E02
-https://cldup.com/u0noac5gAZU/saBQJz.mp4?download=fbr.my.iD.Mr.Robot.S03E02.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E03
-https://cldup.com/u0noac5gAZU/uQYoyL.mp4?download=fbr.my.iD.Mr.Robot.S03E03.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E04
-https://cldup.com/u0noac5gAZU/Hlq0D6.mp4?download=fbr.my.iD.Mr.Robot.S03E04.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E05
-https://cldup.com/u0noac5gAZU/hcTnkb.mp4?download=fbr.my.iD.Mr.Robot.S03E05.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E06
-https://cldup.com/u0noac5gAZU/LPq8P9.mp4?download=fbr.my.iD.Mr.Robot.S03E06.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E07
-https://cldup.com/u0noac5gAZU/eJTrtG.mp4?download=fbr.my.iD.Mr.Robot.S03E07.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E08
-https://cldup.com/u0noac5gAZU/NHyhb0.mp4?download=fbr.my.iD.Mr.Robot.S03E08.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E09
-https://cldup.com/u0noac5gAZU/YzZ5Rn.mp4?download=fbr.my.iD.Mr.Robot.S03E09.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",Mr. Robot S03E10
-https://cldup.com/u0noac5gAZU/1WjQyf.mp4?download=fbr.my.iD.Mr.Robot.S03E10.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E01
-https://cldup.com/u0noac5gAZU/JoFcdA.mp4?download=%5BMelongfilm%5D_PBS3_01.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E02
-https://cldup.com/u0noac5gAZU/uwJ2R6.mp4?download=%5BMelongfilm%5D_PBS3_02.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E03
-https://cldup.com/u0noac5gAZU/G0mhnN.mp4?download=%5BMelongfilm%5D_PBS3_03.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E04
-https://cldup.com/u0noac5gAZU/LRbR56.mp4?download=%5BMelongfilm%5D_PBS3_04.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E05
-https://cldup.com/u0noac5gAZU/n3Mrap.mp4?download=%5BMelongfilm%5D_PBS3_05.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E06
-https://cldup.com/u0noac5gAZU/C0s1NB.mp4?download=%5BMelongfilm%5D_PBS3_06.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E07
-https://cldup.com/u0noac5gAZU/eiPPdh.mp4?download=%5BMelongfilm%5D_PBS3_07.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E08
-https://cldup.com/u0noac5gAZU/oIxryn.mp4?download=%5BMelongfilm%5D_PBS3_08.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E09
-https://cldup.com/u0noac5gAZU/Bu6aJQ.mp4?download=%5BMelongfilm%5D_PBS3_09.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E10
-https://cldup.com/u0noac5gAZU/scanth.mp4?download=%5BMelongfilm%5D_PBS3_10.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E11
-https://cldup.com/u0noac5gAZU/kH8khp.mp4?download=%5BMelongfilm%5D_PBS3_11.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E12
-https://cldup.com/u0noac5gAZU/yPcZJz.mp4?download=%5BMelongfilm%5D_PBS3_12.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/dtw4jMz6/pbs3.jpg",PRISON BREAK S03E13
-https://cldup.com/u0noac5gAZU/YheFxE.mp4?download=%5BMelongfilm%5D_PBS3_13_END.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E01
-https://cldup.com/u0noac5gAZU/DjUYCj.mp4?download=%5BMelongfilm%5D_PBS2_01_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E02
-https://cldup.com/u0noac5gAZU/Cbu4mg.mp4?download=%5BMelongfilm%5D_PBS2_02_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E03
-https://cldup.com/u0noac5gAZU/Gflx4n.mp4?download=%5BMelongfilm%5D_PBS2_03_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E04
-https://cldup.com/u0noac5gAZU/ImnzW4.mp4?download=%5BMelongfilm%5D_PBS2_04_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E05
-https://cldup.com/u0noac5gAZU/X20yHP.mp4?download=%5BMelongfilm%5D_PBS2_05_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E06
-https://cldup.com/u0noac5gAZU/0uTEPs.mp4?download=%5BMelongfilm%5D_PBS2_06_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E07
-https://cldup.com/u0noac5gAZU/A1VNoe.mp4?download=%5BMelongfilm%5D_PBS2_07_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E08
-https://cldup.com/u0noac5gAZU/xReLyb.mp4?download=%5BMelongfilm%5D_PBS2_08_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E09
-https://cldup.com/u0noac5gAZU/ShscWL.mp4?download=%5BMelongfilm%5D_PBS2_09_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E10
-https://cldup.com/u0noac5gAZU/bL0UjO.mp4?download=%5BMelongfilm%5D_PBS2_10_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E11
-https://cldup.com/u0noac5gAZU/A4XtUB.mp4?download=%5BMelongfilm%5D_PBS2_11_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E12
-https://cldup.com/u0noac5gAZU/OmsONo.mp4?download=%5BMelongfilm%5D_PBS2_12_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E13
-https://cldup.com/u0noac5gAZU/PSbvLM.mp4?download=%5BMelongfilm%5D_PBS2_13_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E14
-https://cldup.com/u0noac5gAZU/AA2hkg.mp4?download=%5BMelongfilm%5D_PBS2_14_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E15
-https://cldup.com/u0noac5gAZU/oIUEra.mp4?download=%5BMelongfilm%5D_PBS2_15_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E16
-https://cldup.com/u0noac5gAZU/JGOtqT.mp4?download=%5BMelongfilm%5D_PBS2_16_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E17
-https://cldup.com/u0noac5gAZU/MPpHfn.mp4?download=%5BMelongfilm%5D_PBS2_17_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E18
-https://cldup.com/u0noac5gAZU/yv1Bll.mp4?download=%5BMelongfilm%5D_PBS2_18_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E19
-https://cldup.com/u0noac5gAZU/YHa92x.mp4?download=%5BMelongfilm%5D_PBS2_19_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E20
-https://cldup.com/u0noac5gAZU/kMwv12.mp4?download=%5BMelongfilm%5D_PBS2_20_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E21
-https://cldup.com/u0noac5gAZU/wX8Owk.mp4?download=%5BMelongfilm%5D_PBS2_21_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/7YqHj8H9/pb2.jpg",PRISON BREAK S02E22
-https://cldup.com/u0noac5gAZU/qsCrZJ.mp4?download=%5BMelongfilm%5D_PBS2_22_END_480p.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E01
-https://cldup.com/u0noac5gAZU/9WJwMn.mp4?download=Melongfilm.Prison.Break.S01E01.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E02
-https://cldup.com/u0noac5gAZU/lY2e5E.mp4?download=Melongfilm.Prison.Break.S01E02.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E03
-https://cldup.com/u0noac5gAZU/k8t487.mp4?download=Melongfilm.Prison.Break.S01E03.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E04
-https://cldup.com/u0noac5gAZU/YIlVu1.mp4?download=Melongfilm.Prison.Break.S01E04.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E05
-https://cldup.com/u0noac5gAZU/yI7m7d.mp4?download=Melongfilm.Prison.Break.S01E05.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E06
-https://cldup.com/u0noac5gAZU/f7vZZg.mp4?download=Melongfilm.Prison.Break.S01E06.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E07
-https://cldup.com/u0noac5gAZU/HaCNUX.mp4?download=Melongfilm.Prison.Break.S01E07.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E08
-https://cldup.com/u0noac5gAZU/zHsAAQ.mp4?download=Melongfilm.Prison.Break.S01E08.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E09
-https://cldup.com/u0noac5gAZU/QCGwzr.mp4?download=Melongfilm.Prison.Break.S01E09.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E10
-https://cldup.com/u0noac5gAZU/y8uDhC.mp4?download=Melongfilm.Prison.Break.S01E10.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E11
-https://cldup.com/u0noac5gAZU/Q6r0CP.mp4?download=Melongfilm.Prison.Break.S01E11.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E12
-https://cldup.com/u0noac5gAZU/pWVHoG.mp4?download=Melongfilm.Prison.Break.S01E12.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E13
-https://cldup.com/u0noac5gAZU/CnfI6k.mp4?download=Melongfilm.Prison.Break.S01E13.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E14
-https://cldup.com/u0noac5gAZU/nLNUiP.mp4?download=Melongfilm.Prison.Break.S01E14.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E15
-https://cldup.com/u0noac5gAZU/SD5tHP.mp4?download=Melongfilm.Prison.Break.S01E15.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E16
-https://cldup.com/u0noac5gAZU/iBfeoU.mp4?download=Melongfilm.Prison.Break.S01E16.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E17
-https://cldup.com/u0noac5gAZU/r5kcho.mp4?download=Melongfilm.Prison.Break.S01E17.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E18
-https://cldup.com/u0noac5gAZU/mjYgFe.mp4?download=Melongfilm.Prison.Break.S01E18.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E19
-https://cldup.com/u0noac5gAZU/Ye04EI.mp4?download=Melongfilm.Prison.Break.S01E19.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E20
-https://cldup.com/u0noac5gAZU/VEUvi5.mp4?download=Melongfilm.Prison.Break.S01E20.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01E21
-https://cldup.com/u0noac5gAZU/i6gsRo.mp4?download=Melongfilm.Prison.Break.S01E21.mp4
-#EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/QBqRNY3t/pb1.jpg",PRISON BREAK S01END22
-https://cldup.com/u0noac5gAZU/5QlsyT.mp4?download=Melongfilm.Prison.Break.S01E22.END.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E01
-https://cldup.com/u0noac5gAZU/4CYedl.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E02
-https://cldup.com/u0noac5gAZU/saBQJz.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E03
-https://cldup.com/u0noac5gAZU/uQYoyL.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E04
-https://cldup.com/u0noac5gAZU/Hlq0D6.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E05
-https://cldup.com/u0noac5gAZU/hcTnkb.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E06
-https://cldup.com/u0noac5gAZU/LPq8P9.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E07
-https://cldup.com/u0noac5gAZU/eJTrtG.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E08
-https://cldup.com/u0noac5gAZU/NHyhb0.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E09
-https://cldup.com/u0noac5gAZU/YzZ5Rn.mp4
-#EXTINF:-1 group-title="SERIES",Mr. Robot S03E10
-https://cldup.com/u0noac5gAZU/1WjQyf.mp4
 #EXTINF:-1 group-title="VoD Kidos",MARSYA & THE BEAR
 https://d.top4top.io/m_1478p5qfu2.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (3)
@@ -1219,46 +1047,6 @@ https://dl.dropboxusercontent.com/s/0cmkqcfr8rah83t/9%20Rocker%20Balik%20Kampung
 https://dl.dropboxusercontent.com/s/stcruwgxmcf0k84/10%20Penari%20Malam.m3u8?dl=1
 #EXTINF:-1 group-title="VOD INDONESIA",Akibat Hamil Muda
 https://dl.dropboxusercontent.com/s/vw3j3ypxpmsemy6/11%20Akibat%20Hamil%20Muda.m3u8?dl=1
-#EXTINF:-1 group-title="VOD INDONESIA",I Know What You Did on Facebook
-https://dl.dropboxusercontent.com/s/e9121rtwyzx3odv/1%20I%20Know%20What%20You%20Did%20on%20Facebook.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Kentut
-https://dl.dropboxusercontent.com/s/r6r0x7afiksk658/2%20Kentut.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Identitas
-https://dl.dropboxusercontent.com/s/juttndjjkfpen4v/3%20Identitas.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Magic Hour
-https://dl.dropboxusercontent.com/s/2stabpnq5jxhxqc/4%20Magic%20Hour.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Bintang di Langit Belitong
-https://dl.dropboxusercontent.com/s/gei5oabqnwjz7gb/5%20Bintang%20di%20Langit%20Belitong.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Republik Twitter
-https://dl.dropboxusercontent.com/s/96r80uhb6v4dtc5/6%20Republik%20Twitter.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",The Mentalist
-https://dl.dropboxusercontent.com/s/a6mniyfl87hz60m/7%20The%20Mentalist.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Pengakuan Seorang Pelacur
-https://dl.dropboxusercontent.com/s/6983olstgq5xsl8/8%20Pengakuan%20Seorang%20Pelacur.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Rocker Balik Kampung
-https://dl.dropboxusercontent.com/s/0cmkqcfr8rah83t/9%20Rocker%20Balik%20Kampung.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Penari Malam
-https://dl.dropboxusercontent.com/s/stcruwgxmcf0k84/10%20Penari%20Malam.m3u8?dl=0
-#EXTINF:-1 group-title="VOD INDONESIA",Akibat Hamil Muda
-https://dl.dropboxusercontent.com/s/vw3j3ypxpmsemy6/11%20Akibat%20Hamil%20Muda.m3u8?dl=0
-#EXTINF:-1 group-title="VOD IND",The Bombing - Air Strike
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Air.Strike.2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IND",Little Forest
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Little-Forest.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IND",Cloudy with a Chance of Meatballs 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Cloudy.with.a.Chance.of.Meatballs.2.2013.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IND",The Dare
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-dare.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IND",Bait
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bait.2019.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IND",The Wave
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Wave.2020.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD IN",Aquaman (2018)
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aquaman-2018.mp4/playlist.m3u8
-#EXTINF:-1 group-title="VOD MANDARIN",南海美人鲛 (South Sea Beauty Shark)
-https://douban.donghongzuida.com/20200510/1852_b0fb2b18/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",onkey King 3: Love Tribulation (2020)
-https://douban.donghongzuida.com/20200529/2716_3f749d73/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="VoD Kidos",MR BEAN
 https://e.top4top.io/m_14780yajy3.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (4)
@@ -1601,12 +1389,6 @@ https://f1.ygve.com/storage/media/b87251ce35d33b605aed776c3a07ee61-720.mp4/maste
 https://f1.ygve.com/storage/media/db39525620daa505252b8196940854a0-720.mp4/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Act 1 Sezon 5 Bölüm
 https://f1.ygve.com/storage/media/11a2fec85af4850b28c07049f11120e1-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD IND",LOVE YOU USTAZ 2020
-https://f10.file-upload.download:183/d/rqxpuf7rnlgpv7w72kzywbk5zilkf43hw5o6r2f2de7tqihuhmevrmfgqhrtdcl5odiltjab/LOVE.YOU.USTAZ.2019.HDTV.mp4
-#EXTINF:-1 group-title="VOD IND",BEBAS 2020
-https://f3.file-upload.download:183/d/rexpal7rnlgpv7w72sz56r2zsap2cfwv6q2oeaszhokd3rmoqfy6tmw633h3ikodlvpohgcs/Bebas.2019.WEBRip.720p.FMZM.mkv
-#EXTINF:-1 group-title="VOD IND",MELUR VS RAJAWALI
-https://f7.file-upload.download:183/d/qqxn42xqnlgpv7w7yszzaesqyjvcos3qvitdkqxz6fqjueobpgqkhreh3vvahblxufqxmwfg/Melur.VS.Rajawali.2015.720p.HDTV.mkv
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (5)
 https://g.top4top.io/m_1477156zr7.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (16)
@@ -1847,12 +1629,6 @@ https://h.top4top.io/m_1477jhbxy0.mp4
 https://h.top4top.io/m_1477nim1t4.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (26)
 https://h.top4top.io/m_14782rsk46.mp4
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Courier (2019 Bluray no sub)
-https://haoa.haozuida.com/20191122/YvDQ7sYZ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="VOD MANDARIN",古剑奇谭之伏魔纪 (Gu Jian Qi Tan Zhi Fu Mo Ji 2020)
-https://hong.tianzhen-zuida.com/20200128/19374_9f28d3f7/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",aku masih blm tau juga judulnya
-https://hong.tianzhen-zuida.com/20191216/16236_4e2be689/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="VoD Kidos",MR BEAN
 https://i.top4top.io/m_1479evu575.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (17)
@@ -1861,10 +1637,6 @@ https://i.top4top.io/m_1477n4py19.mp4
 https://i.top4top.io/m_1477w0sts5.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (28)
 https://i.top4top.io/m_14782jcy02.mp4
-#EXTINF:-1 group-title="VoD Mix",Colossal (2016)
-https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",IP Man 4: The Finale (2019 hd cam no sub)
-https://iqiyi.com-ok-iqiyi.com/20191221/12018_01ba4b36/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (7)
 https://j.top4top.io/m_1477bmium9.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (29)
@@ -1893,110 +1665,10 @@ https://l.top4top.io/m_1477h68tl2.mp4
 https://l.top4top.io/m_1477brk9x2.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (31)
 https://l.top4top.io/m_1478tnf185.mp4
-#EXTINF:-1 group-title="VOD PILIHAN",The Twilight : NEW MOON (2009)
-https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
-#EXTINF:-1 group-title="VOD PILIHAN",The Twilight : ECLIPSE (2010)
-https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
-#EXTINF:-1 group-title="VOD PILIHAN",HER (2013)
-https://lh3.googleusercontent.com/CTVl1ZdIVmb6CO3U-ydOHk70u4gxH8Ye9PXkKmO5GPGM1qFOUag1jKny1ukL1iLSB5ktFlnzvlbmxHqpBA=m22
-#EXTINF:-1 group-title="VOD PILIHAN",The Swan Princess : Kingdom of Music (2019)
-https://lh3.googleusercontent.com/CWjQu_O94IB-kK5NPNUGxYXz-awys552O6lXKaBLl0XoITFqN5EFoTBkoINU4QJoVPFPteDDq0MHE13gXg=m22
-#EXTINF:-1 group-title="VOD INDIA",Ghost (2019)
-https://lh3.googleusercontent.com/SRJ95uOmmzmKBHySN2MnQYqXnC1IyWcX3p5RaTxbT-7Cf2oAl3V1OXNYFdlrU3jr63_9hw8jzR0GwCCvhg=m18
-#EXTINF:-1 group-title="VOD INDIA",No name
-https://lh3.googleusercontent.com/UnKfilWihOuyv1PG_iDODkwx7hwxPU9hVVO2M4Z4ZlcbsOOOr9p7O5hbFGZVEF2Eb0pYdVNh-atmU-GJWw=m22
-#EXTINF:-1 group-title="VOD INDIA",Pal Pal Dil Ke Paas (2019)
-https://lh3.googleusercontent.com/YEkrSKdMXDSxMbqCQGyidtH7ZKQt-p7LjvSp4_RUwUDkGu3H4LD4WuvW6Ig8Fw4g1LQ7Se5w5ZKO4tQ50w=m18
 #EXTINF:-1 group-title="VOD INDIA",Pati Patni Aur Woh (2019)
 https://lh3.googleusercontent.com/95wS52iWrQ3WDD0lYHn8Yg8Lbg5sPPAVwOYfoNf-FSnCTcpvrInTVGZj6xBNdxKjeo8nsObZdKW5pw4t6g=m22
 #EXTINF:-1 group-title="VOD BARAT SERIES" tvg-logo="https://i.postimg.cc/nzvQB4HS/ROBOT.jpg",>>>> Mr. Robot Season 03 <<<<
 http://mediaprima.rastream.com/mediaprima-hotfm
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Frozen 2 no sub
-https://meng.wuyou-zuida.com/20191122/22590_cc8dd6ad/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",THE AERONAUTS(2019)
-https://red-mud-57e2.mandaluo.workers.dev/The.Aeronauts.2019.1080p.AMZN.WEBRip.DD5.1.x264-FGT.mkv
-#EXTINF:-1 group-title="VOD IN",Swordfish (2001)
-http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
-#EXTINF:-1 group-title="VOD INDO",Suatu Hari Nanti (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
-#EXTINF:-1 group-title="VOD INDO",5 Cowok Jagoan (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI Reborn: Jangkrik Boss Part 2 http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
-http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
-#EXTINF:-1 group-title="VOD INDO",Naga Bonar Jadi 2 (2007)
-http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
-#EXTINF:-1 group-title="VOD INDO",Galih Dan Ratna (2017)
-http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
-#EXTINF:-1 group-title="VOD IN",Jurassic World: Fallen Kingdom (2018)
-http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
-#EXTINF:-1 group-title="VOD IN",Jumanji: Welcome To The Jungle (2017)
-http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
-#EXTINF:-1 group-title="VOD IN",Tomb Raider (2018)
-http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
-#EXTINF:-1 group-title="VOD IN",Extinction (2018)
-http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
-#EXTINF:-1 group-title="VOD ID",My Stupid Bos (2016)
-http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-#EXTINF:-1 group-title="MOVIE INDO",Warkop DKI Reborn: Jangkrik Boss Part 2
-http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
-#EXTINF:-1 group-title="VOD INDO",Arini (2018)
-http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
-#EXTINF:-1 group-title="VOD INDO",Benyamin Biang Kerok (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-#EXTINF:-1 group-title="VOD INDO",London Love Story 3 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-#EXTINF:-1 group-title="VOD INDO",Revan & Reina (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
-#EXTINF:-1 group-title="VOD INDO",Partikelir (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-#EXTINF:-1 group-title="VOD INDO",Flight 555 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-#EXTINF:-1 group-title="VOD IN",Doctor Strange (2016)
-http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
-#EXTINF:-1 group-title="VOD INDO",Alas Pati (2018)
-http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
-#EXTINF:-1 group-title="VOD INDO",The Secret Suster Ngesot Urban Legend (2018)
-http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-#EXTINF:-1 group-title="VOD IN",The Meg (2018)
-http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
-#EXTINF:-1 group-title="VOD INDO",Skyscraper (2018)
-http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
-#EXTINF:-1 group-title="VOD INDO",Bodyguard Ugal-Ugalan (2018)
-http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
-#EXTINF:-1 group-title="VOD INDO",Ayat-Ayat Cinta 2 (2017)
-http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-#EXTINF:-1 group-title="VOD INDO",Insya Allah Sah 2 (2018)
-http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT",The Wrath of Vajra
-http://srv28.nf21.net/files/6-2019-02-06-21f2dae4600cea8e5d396a20b19af972.mp4
-#EXTINF:-1 group-title="VOD INDO",Hanum & Rangga: Faith & The City (2018)
-http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
-#EXTINF:-1 group-title="VOD INDO",Bajaj Bajuri: The Movie (2014)
-http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
-#EXTINF:-1 group-title="VOD INDO",Terbang: Menembus Langit (2018)
-http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
-#EXTINF:-1 group-title="VOD INDO",Rompis (2018)
-http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
-#EXTINF:-1 group-title="VOD INDO",Sepatu Dahlan (2014)
-http://srv28.nf21.net:80/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
-#EXTINF:-1 group-title="VOD IN",Mission Impossible: Fallout (2018)
-http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
-#EXTINF:-1 group-title="VOD IN",Atlantic Rim: Resurrection (2018)
-http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
-#EXTINF:-1 group-title="VOD IN",Reborn
-http://srv30.nf21.net/files/11-2018-12-25-8bbff1bc38c625aaf74804dbdfb73fe7.mp4
-#EXTINF:-1 group-title="VOD IN",Running Man
-http://srv32.nf21.net/files/15-2020-04-25-945da31d92d773f1ceea59cdc7549368.mp4
-#EXTINF:-1 group-title="VOD MANDARIN",Chinese Ghost Story 3: The Enchanting Phantom (2020)
-http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",Are We in Love? (2020)
-http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Ong Bak: The Thai Warrior
-http://srv33.nf21.net/files/15-2020-05-20-7a9d9ddfb1d72847ffc9e99842516978.mp4
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT 2020",The One
-http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
-#EXTINF:-1 group-title="VoD Mix",The Patriot (2000)
-http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Messiah 1. Sezon 1. Bölüm
 https://v1.ygve.com/storage/media/7953cf9a5abcb7723d70a0cc243f3d6c-720.mp4/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Messiah 1. Sezon 2. Bölüm
@@ -2373,12 +2045,6 @@ https://v1.ygve.com/storage/media/286f9e5c6ec85848df0d1d478bc1d8e2-720.mp4/maste
 https://v1.ygve.com/storage/media/4e7b747a5a9d4e48fe51a9b5b82539d6-720.mp4/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Marvel's Runaways 2. Sezon 12. Bölüm
 https://v1.ygve.com/storage/media/fc0f45b43a53cba8670070b7e4107b44-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Pin Pin Pom Delima Sakti BAG 1
-https://vod.rctiplus.id/vod/118021/1/3/854/manifest.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Pin Pin Pom Delima Sakti BAG 2
-https://vod.rctiplus.id/vod/118019/1/3/854/manifest.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Pin Pin Pom Delima Sakti BAG 3
-https://vod.rctiplus.id/vod/118020/1/3/854/manifest.m3u8
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png",MALEFICENT
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 #EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Hangover (2009)
@@ -2809,80 +2475,6 @@ https://www.dropbox.com/s/tt03n7o7vcqiud6/Galih.dan.Ratna.2017.WEB-HD.720p.DD5.1
 https://www.dropbox.com/s/47ft7e4qhodb6cl/Mendadak.Kaya.2019.WEB-DL.720p-PusatFilm21.com.mkv?dl=1
 #EXTINF:-1 group-title="VOD ID",Mile 22
 https://www.dropbox.com/s/9z99mio9lu6p2jn/%5Bmoviegan.com%5DMile.22.%282018%29.Bluray.720p.mkv?dl=1
-#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - GENGSI DONG
-https://www.dropbox.com/s/ez3m3rq2fdmd7y0/WARKOP%20DKI%20%28Gengsi%20Dong%29%201980%20FULL%20HQ.mp4?dl=1
-#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - MANUSIA 6 JUTA DOLAR
-https://www.dropbox.com/s/kgg99bsdbne8l34/%5BKomedi%5D%20Warkop%20DKI%20-%20Manusia%206%20Juta%20Dolar.mp4?dl=1
-#EXTINF:-1 group-title="VOD INDONESIA",WARKOP DKI - PINTAR PINTAR BODOH
-https://www.dropbox.com/s/1dg810f032qcca0/Warkop%20DKI%20Pintar%20pintar%20Bodoh%201980.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Cek Toko Sebelah
-https://www.dropbox.com/s/3r67w11s71y6aod/%5BIndoShare%20Film%5D%20Cek%20Toko%20Sebelah%20%282016%29%20720p.mkv?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",The Assistant (2019)
-https://www.dropbox.com/s/7lx17iabc0tho4k/%5BFILMAPIK.INFO%5D%20-%20The%20Assistant%20%282019%29_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Iru Mugan
-https://www.dropbox.com/s/3txkiawva4obm1k/iru%20mugan.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Tom and Jerry Spy Quest
-https://www.dropbox.com/s/et5ulcdsb231ava/Tom%20and%20Jerry%20Spy%20Quest.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Saaho
-https://www.dropbox.com/s/1z29nes2fubrbsy/sahoo.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Bloodshot
-https://www.dropbox.com/s/uxy6j2763m66644/Nonton%20Film%20Bloodshot%20%282020%29%20Subtitle%20Indonesia%20_%20XX1%20Filmapik.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Maleficent 2014
-https://www.dropbox.com/s/84y4y75g83i4tod/Nonton.%20Movie%20Maleficent%20%282014%29%20Sub%20Indo%20-%20XX1%20Film%20Bioskop%20Terbaru%20Layarkaca%2021%20LK21.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",CHAPPIE (2015)
-https://www.dropbox.com/s/t5ccb31y2zn6ik9/%5BFILMAPIK.CA%5D%20-%20Chappie%20%282015%29_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Star Wars- The Rise of Skywalker (2019)
-https://www.dropbox.com/s/5l1w2evf17jvedw/%5BFILMAPIK.CA%5D%20-%20Star%20Wars-%20The%20Rise%20of%20Skywalker%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",DEADPOOL 2016
-https://www.dropbox.com/s/t3ibj44fcaaqhvy/%5BFILMAPIK.CA%5D%20-%20Deadpool%20%282016%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",EPISODE 7 - THE FLASH SEASON 6
-https://www.dropbox.com/s/58fa949um2cl56m/Nonton%20TV%20Series%20The%20Flash-%206x5%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",EPISODE 4 - THE FLASH SEASON 6
-https://www.dropbox.com/s/ha49l09n8yzc5o9/Nonton%20TV%20Series%20The%20Flash-%206x3%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",EPISODE 2 - THE FLASH SEASON 6
-https://www.dropbox.com/s/swb65r6bkma9wcn/video_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",EPISODE 1 - THE FLASH SEASON 6
-https://www.dropbox.com/s/fmp5w42i5sbn18j/video.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",INTO THE SUN 2005
-https://www.dropbox.com/s/t34wk1f8km3ik6k/%5BFILMAPIK.CA%5D%20-%20Into%20the%20Sun%20%282005%29.mp4.CA%5D%20-%20Into%20the%20Sun%20%282005%29?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",All in 2020
-https://www.dropbox.com/s/jbu7htx11xkuaz8/%5BFILMAPIK.CA%5D%20-%20All%20In%20%282012%29.mp4.CA%5D%20-%20All%20In%20%282012%29?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Dora and The Lost City of Gold 2019
-https://www.dropbox.com/s/1cytiv6ikw3v6va/%5BFILMAPIK.CA%5D%20-%20Dora%20and%20the%20Lost%20City%20of%20Gold%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",HUSTLERS 2019
-https://www.dropbox.com/s/y14ynqnfumxv38l/%5BFILMAPIK.CA%5D%20-%20Hustlers%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",COMANDO 3 2019
-https://www.dropbox.com/s/jqjqq2r465lpkyf/%5BFILMAPIK.ID%5D%20-%20Commando%203%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",AMERICAN EXIT 2019
-https://www.dropbox.com/s/bqh5jzcevqbtvvb/%5BFILMAPIK.ID%5D%20-%20American%20Exit%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",TITUS 1999
-https://www.dropbox.com/s/6mvelzxd8k9nu6k/Titus%201999.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Warkop DKI - Mana Tahan
-https://www.dropbox.com/s/f64h7truysnswta/Warkop%20Dki%20-%20Mana%20Tahan%20%281979%29%20Full%20HQ.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",The Corrupted 2019
-https://www.dropbox.com/s/owtbs3mv6eg96i9/%5BFILMAPIK.ID%5D%20-%20The%20Corrupted%20%282019%29%20-%20Google%20Drive.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Pete Davidson Alive From New York 2020
-https://www.dropbox.com/s/ycwxv7ioq846fpq/%5BFILMAPIK.ID%5D%20-%20Pete%20Davidson-%20Alive%20from%20New%20York%20%282020%29%20-%20Google%20Drive.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Money
-https://www.dropbox.com/s/op3ouomi74q31cv/%5BFILMAPIK.CA%5D%20-%20Money%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Independence Day Resurgence 2016
-https://www.dropbox.com/s/ls1la7l3tvxqe3c/%5BFILMAPIK.CA%5D%20-%20Independence%20Day-%20Resurgence%20%282016%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Queen Salim
-https://www.dropbox.com/s/u8inpha1vyourpz/queen%20salim.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Cupid 2020
-https://www.dropbox.com/s/dkhjiovqc164g4f/cupid%202020.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",To All Boys
-https://www.dropbox.com/s/ycsjkpk9exrs76m/%5BFILMAPIK.CA%5D%20-%20To%20All%20the%20Boys-%20P.S.%20I%20Still%20Love%20You%20%282020%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Enter The Fat Dragon
-https://www.dropbox.com/s/6a3qlf8wm21405k/%5BFILMAPIK.ID%5D%20-%20Enter%20the%20Fat%20Dragon%20%282020%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Disturbing The Peace
-https://www.dropbox.com/s/ng6iwqq2z0jphhj/%5BFILMAPIK.ID%5D%20-%20Disturbing%20the%20Peace%20%282020%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Jumanji Next Level
-https://www.dropbox.com/s/yv8i72gf2tx9vm8/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf%20%281%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Jumanji Next Level Backup
-https://www.dropbox.com/s/c92k4a61aqdbrx2/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf.mp4?dl=1
-#EXTINF:-1 group-title="VOD PILIHAN",Midway 2019
-https://www.dropbox.com/s/wb68greo0bp4l3t/%5BFILMAPIK.CA%5D%20-%20Midway%20%282019%29.mp4?dl=1
 #EXTINF:-1 group-title="VOD MOVIES new" tvg-logo="https://i.imgur.com/w0qkBJP.png",Zoey (2020)
 https://www.dropbox.com/s/0yzzg7i1b24wvru/Zoey%20%282020%29.mp4?dl=1
 #EXTINF:-1 group-title="VOD MOVIES new" tvg-logo="https://i.imgur.com/yoA71O3.png",Cinderela Pop (2020)
@@ -4485,241 +4077,345 @@ http://www.supercartube.com/media/videos/h264/743_720p.mp4
 http://www.supercartube.com/media/videos/h264/742_720p.mp4
 #EXTINF:-1 group-title="VOD ID",001 Main Karet Kenak Repet
 http://www.supercartube.com/media/videos/h264/741_720p.mp4
-#EXTINF:-1 group-title="VOD PILIHAN",Gundala (2019) [Backup]
-http://www.supercartube.com/media/videos/h264/999_720p.mp4
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Peaky Blinders 5. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/b9562c8885b290237bea135a51c7c7c9-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Peaky Blinders 5. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/abed6a67024bca5fda553690ccc25744-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Peaky Blinders 5. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/87c804d3ccbcf57bd842b1917e1b665b-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Peaky Blinders 5. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/75e4434b84c04cb90561a92dbf8e4d25-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Witcher 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/6b5c2465d7d2bdbe2a8c221bfa2837c6-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Witcher 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/934ec5ef0f68a8aa7549cac2a8e9a46c-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Witcher 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/e681090ec506e12daa5cc7c0f0d4e595-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Witcher 1. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/44b9d5f8c5bc3ad6c794c0f8bd122b4f-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Atiye 1. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/f6bef450fc9664523bb52e0a3b833cd0-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Atiye 1. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/4d41ee8f74928fcfa88687c2f9a141bd-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Atiye 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/00b67a8714c3b7bccc764ecb1ccadd09-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Atiye 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/8305b0dcdd29ad9bf1dbea227c93aa6a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sintonia 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/25ab70e5e141f7151975db4dd428b779-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Sintonia 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/3447e3e8c35a87ff157a0848d6a57f2a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/3320941aa35886f38f01f0e308fc82b8-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/237651393ea46528294b2531b413bd1a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/ba2c5921ef32eff43ee123351ad75c6c-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/90f71b72d14665219b0395cc1e541cbf-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/9378393171a41bbfa95c462e6a682f65-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/aead2d55167dbff1ea506aa03b9e66b7-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Unbelievable 1. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/4fcf6cabf09aaecf503836191512d077-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Dark Crystal: Age of Resistance 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/f4db1a9723e8e0cf60906c145935bda3-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Dark Crystal: Age of Resistance 1. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/f2ee2a0273423d5c9641ed43610b3f07-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Dark Crystal: Age of Resistance 1. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/61c2f63ad30b535d8ec72041fb83e3e3-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Dark Crystal: Age of Resistance 1. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/aece2201965fd85a1baa597797066d8e-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Marianne 1. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/3ff82c2eede5e0f94dfe542831b2728a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/604b6bd13d71e71f1592f69227adf7e1-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/209ce67b173bab94a3e3e3f30073bfe1-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/5b9c6f1322acd6a2d69d7956f81bfbf8-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 9. Bölüm
-https://x1.ygve.com/storage/media/3b74ff71d9b567c0574a7528e7b24fbf-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/90a247718a613c2192332daf853b6984-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 12. Bölüm
-https://x1.ygve.com/storage/media/a2af3cd612681edfee166ee30cf3e07d-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 13. Bölüm
-https://x1.ygve.com/storage/media/0ab22722ded4d365d9e6944ef8a5c34f-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Vagabond 1. Sezon 15. Bölüm
-https://x1.ygve.com/storage/media/ac60eaa327d11ba2b86dffc8efdbd559-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ultraman 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/2b3e3f05affd50da9c6922871e5beb51-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ultraman 1. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/07e652ede359503bf3757b6daa0f38f5-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ultraman 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/ac25c065658a968f8e5058f765833f16-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ultraman 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/2262b0bb0a1f423535865ede3f760a26-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Ultraman 1. Sezon 9. Bölüm
-https://x1.ygve.com/storage/media/096de2f7150234276031272c810c42d2-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/3a13266953b183683103ff11fe93e904-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/8a7a3849be91d9421c1dc697f940152a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/9f8cf25eebc9e2f86be0a7332977bc31-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/03c0b5145c77c8f4661a54f3f39e0c2a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 9. Bölüm
-https://x1.ygve.com/storage/media/398e988095b5ab85324c00458ae710de-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Insatiable 2. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/13f83cfad467353739821d49f4a5cca7-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/676f1f0eb23108339f18877d460858d4-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/f5894b6139d57aec2b9bbc7bfc99c640-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/1684b53f0a6c99781c51d1d7df7fa99d-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 1. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/6eaa7a3f1081bb54cecf70a4a118c240-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 1. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/060430b8f90c1f8c75a561ef36dba539-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/e415499ea66b61a51c6b672b0766e713-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/e793a8a8d3748fceaf26a203b0fd0f77-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/9a162aec0ed4157a5bbc35bc51fa1eba-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/8ecd7a7dc689961d0c21f971ccf52735-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/ea781a9577de075e3024e0c939f7fce9-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Friends from College 2. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/86de2b851984d51e0f4120f18d5c6b85-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Élite 2. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/f70f0f27c040f14b6f0d529debaee096-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Élite 2. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/a3f2d945cb7474c6b1ea105005c9567d-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Élite 2. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/c3bc7c07d3415704f79c030f1afa0a69-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Élite 2. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/1962f007b946fd29d9ef6e27ec412370-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",V Wars 1. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/39b2335b833b5c1ec51f00c8d5cef229-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",V Wars 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/09d1ac86403193a8af16b37cc3091696-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",V Wars 1. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/e6b436712f079ea72da01835ec7bd74f-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",V Wars 1. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/c53e01b2faa71a9483e4e7381d55db80-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Servant 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/018e47fe81ea876e5e2214af83f6a25a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Servant 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/7d2d609e716fe04df8f75fafdab7d63e-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Servant 1. Sezon 7. Bölüm
-https://x1.ygve.com/storage/media/552073d307c738a435180a0d2b47a6a8-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",The Mandalorian 3. Bölüm
-https://x1.ygve.com/storage/media/dbcfe5b03adb29bf570b08d98b8156ac-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",In the Dark 2. Bölüm
-https://x1.ygve.com/storage/media/f8869636b79dc9e33618b777ed0c5eaa-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",In the Dark 4. Bölüm
-https://x1.ygve.com/storage/media/4dd2cbdfcc093c428c60a7cd0eda1501-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Harley Quinn 1.Sezon 1.Bölüm
-https://x1.ygve.com/storage/media/b1f984e8502755b6ba541b3397366a5a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Harley Quinn 1.Sezon 2.Bölüm
-https://x1.ygve.com/storage/media/8fc00af2be6f0c9233f77cf621fe1e8d-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",YOU 2. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/d6a12172449bca637ffbe00f7ff71092-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",YOU 2. Sezon 3. Bölüm
-https://x1.ygve.com/storage/media/988af598dbe5ce94a92c3e0c01860a34-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",YOU 2. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/521102e7d35f705ebabac87828abf6c5-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/7c935122f3d211c388b07b1115d5c22e-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/8ec0badca740d3997e130d8cdb66cb6f-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/885b26382d4830b3f64ae13b24c56d34-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/2736dacfdcf3eafff4d1d2c72a36a254-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/5eafe74d01c596f82a6ee3fc1e66690a-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/c3a16bc0d7baa26f11f4e0d0f918f105-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Lost in Space 2. Sezon 9. Bölüm
-https://x1.ygve.com/storage/media/84fa63151b20cd57a08448bdd9ed2252-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",One Planet 1. Sezon 1. Bölüm
-https://x1.ygve.com/storage/media/6c51ab2023e7437fdb70b2679b885a97-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",One Planet 1. Sezon 2. Bölüm
-https://x1.ygve.com/storage/media/85d75c98d36592937c527209fd5a3c7b-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",One Planet 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/85e243e9417c875de62e984c2bbef8a1-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",One Planet 1. Sezon 5. Bölüm
-https://x1.ygve.com/storage/media/ccccfbeac3505eee9f953a274b824472-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Planet Earth 1. Sezon 4. Bölüm
-https://x1.ygve.com/storage/media/d20f1393891f10946ddc7806cbe1fc9b-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Planet Earth 1. Sezon 6. Bölüm
-https://x1.ygve.com/storage/media/0a704deda04712dd8a45440995e7d890-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Planet Earth 1. Sezon 8. Bölüm
-https://x1.ygve.com/storage/media/70b088d61e4e9e45c55534b2993c6930-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",Planet Earth 1. Sezon 10. Bölüm
-https://x1.ygve.com/storage/media/28505e3dcb5d7299d3f73ee2ba5cc07f-720.mp4/master.m3u8
-#EXTINF:-1 group-title="VOD IN",Zhong Kui Returns to All Evil Spirits (2020)
-https://xigua-cdn.haima-zuida.com/20200129/1479_5a683c7b/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD IN",Long Long Time Ago 2
-https://yi.jingdianzuida.com/20191030/02bdBfzl/index.m3u8
-#EXTINF:-1 group-title="FILM CAMPURAN BARAT",Monkey King: Hero
-https://yiyi.55zuiday.com/20181214/ZhAur8CC/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",IP Man Kungfu Master (2019 HD no sub)
-https://youku.cdn7-okzy.com/20191223/16350_08be0641/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD IN",Rebirth of the Nympho
-https://youku.com-zx-iqiyi.com/20200127/11894_206bb145/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",A Fantastic Encounter (2019
-https://youku.com-zx-iqiyi.com/20191213/10052_4e97ab42/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Code 82019 (2019
-https://youku.com-zx-iqiyi.com/20191213/10048_ca83eeed/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD FILM CAMPURAN",Underground (2019
-https://youku.com-zx-iqiyi.com/20191213/10055_1f78a5f9/1000k/hls/index.m3u8
-#EXTINF:-1 group-title="VOD IN",Legend of Chenzhen
-https://youku.mhyunbo.com/20191117/riRZ5Emf/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="VOD MOVIES INDONESIA",MATA BATIN 2 (2019)
-https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
-#EXTINF:-1 group-title="VOD PILIHAN",Pokemon Detective Pikachu (2019)
-https://zaccar.b-cdn.net/movies/11-12-2019/Pok%C3%A9mon.Detective.Pikachu.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",MALEFICENT: MISTRESS OF EVIL 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/01-08-2020/Maleficent.Mistress.Of.Evil.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",JOHN WICK 3 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/John.Wick.3/John.Wick.3.Parabellum.2019.720p.BluRay.x264-Pahe.in.mp4
-#EXTINF:-1 group-title="VOD PILIHAN",GOZZILLA 2 :KING OF MONSTER 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/reupload/Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-[YTS.LT].vtt
-#EXTINF:-1 group-title="VOD PILIHAN",THE LION KING 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-01-2019/The.Lion.King.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",SCARY STORIES 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-04-2019/Scary.Stories.To.Tell.In.The.Dark.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",SHAZAM 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-02-2019/Shazam!.2019.1080p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",STUBER 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/10-12-2019/Stuber.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",CRAWL 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/10-12-2019/Crawl.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",TRAIN YOUR DRAGON 3 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-02-2019/How.To.Train.Your.Dragon.The.Hidden.World.2019.720p.BluRay.x264-[YTS.AM].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",ANGRI BIRD 2 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-04-2019/The.Angry.Birds.Movie.2.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",15 MINUTES OF WAR  2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-05-2019/15.Minutes.Of.War.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",THE ART OF RACING IN THE RAIN 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-04-2019/The.Art.Of.Racing.In.The.Rain.2019.720p.BluRay.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",THE KILL TEAM 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/11-05-2019/The.Kill.Team.2019.720p.WEBRip.x264-[YTS.LT].mp4
-#EXTINF:-1 group-title="VOD PILIHAN",GEMINI MAN 2019 {Sub Indo}
-https://zaccar.b-cdn.net/movies/01-08-2020/Gemini.Man.2019.720p.BluRay.x264-[YTS.LT].mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (11)
 https://a.top4top.io/m_1477iyeew3.mp4
 #EXTINF:-1 group-title="VoD Kidos",VIDEO Kidos (32)
 https://a.top4top.io/m_14788ucy26.mp4
 #EXTINF:-1 group-title="VOD PILIHAN",The church channel
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+#EXTINF:-1 group-title="VOD MANDARIN",Friend Zone (2019)
+https://www.googleapis.com/drive/v3/files/1UcnuU3Um5aJsCFfAW4xUFjwquo4N_egV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD MANDARIN",Mortician (2013)
+https://www.googleapis.com/drive/v3/files/0B57lX7VP3XeRU1paTkRWNTNpTVk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MANDARIN",Bounty Hunters
+https://www.googleapis.com/drive/v3/files/1Nr8ERfNomhFEEtPoY4fulICK_95ZJeM4?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MANDARIN",Shaolin Popeye 1
+https://www.googleapis.com/drive/v3/files/1VEdA4Uby2LxRFR-lof2fkJFQThRWYNCY?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MANDARIN",Shaolin Popeye 2
+https://www.googleapis.com/drive/v3/files/1bdzpsoLM4zGPUhW9-kuyWSlJY4Ay0Ykp?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MANDARIN",Dragon From Shaolin
+https://www.googleapis.com/drive/v3/files/1YVX-hW0j9Y7EFILo816lyTIJWB1DVpr_?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 1
+https://www.dropbox.com/s/l2sxiv0sed2s944/Pokemon%20%282019%29%20Episode%2001%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 2
+https://www.dropbox.com/s/u6oh4imitjxfrgx/Pokemon%20%282019%29%20Episode%2002%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 3
+https://www.dropbox.com/s/bu7csagio8xaz4n/Pokemon%20%282019%29%20Episode%2003%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 4
+https://www.dropbox.com/s/tf3ds8i5gvspm15/Pokemon%20%282019%29%20Episode%2004%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 5
+https://www.dropbox.com/s/t8d1n18vf70eb41/Pokemon%20%282019%29%20Episode%2005%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 6
+https://www.dropbox.com/s/2rq40xcpjjb7upu/Pokemon%20%282019%29%20Episode%2006%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 7
+https://www.dropbox.com/s/j8a3dcn6my8cqtn/Pokemon%20%282019%29%20Episode%2007%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 8
+https://www.dropbox.com/s/lk2ns4hjixn896y/Pokemon%20%282019%29%20Episode%2008%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 9
+https://www.dropbox.com/s/nzfirb589qvtbns/Pokemon%20%282019%29%20Episode%2009%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 10
+https://www.dropbox.com/s/hcq1lnxx4l9ibdd/Pokemon%20%282019%29%20Episode%2010%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 11
+https://www.dropbox.com/s/zdnbfssh8ybjrfe/Pokemon%20%282019%29%20Episode%2011%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 12
+https://www.dropbox.com/s/0nkdpvpss4t099c/Pokemon%20%282019%29%20Episode%2012%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 13
+https://www.dropbox.com/s/7i0cnzlmcfwf5c6/Pokemon%20%282019%29%20Episode%2013%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 14
+https://www.dropbox.com/s/e5swhtbgzy7ziss/Pokemon%20%282019%29%20Episode%2014%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 15
+https://www.dropbox.com/s/p1jdlcohpqj879v/Pokemon%20%282019%29%20Episode%2015%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 16
+https://www.dropbox.com/s/h3b2p860u3sr0tc/%5Bneonime%5D_Poke_%282019%29_-_016-720p.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 20
+https://www.dropbox.com/s/170byi3fplhvv6r/Pokemon%20%282019%29%20Episode%2020%20Subtitle%20Indonesia%20-%20Manganime.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 21
+https://www.dropbox.com/s/z3a0o0mvgixripq/Pokemon%202019%20Episode%2021%20Subtitle%20Indonesia%20-%20Manganime.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",POKEMON EPISODE 22
+https://www.dropbox.com/s/0onwstt6lktsnxq/Pokemon%20%282019%29%20Episode%2022%20Subtitle%20Indonesia%20-%20Manganime.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 1
+https://www.dropbox.com/s/xywfmb9s03vxp2p/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2001%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 2
+https://www.dropbox.com/s/av8rvd3ba5cm5zg/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2002%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 3
+https://www.dropbox.com/s/ev8v3ekzdkympp0/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2003%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 4
+https://www.dropbox.com/s/t28rjnvtoimh2dv/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2004%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 5
+https://www.dropbox.com/s/83j5m8dqw3eucza/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2005%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 6
+https://www.dropbox.com/s/9uqo6hvnswz8yg6/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2006%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 7
+https://www.dropbox.com/s/xvd1u95hw3qya6q/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2007%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 8
+https://www.dropbox.com/s/iaa8khh3uklv6ov/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2008%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 9
+https://www.dropbox.com/s/j82y5dfr0vr2w4m/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2009%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 10
+https://www.dropbox.com/s/at4mwbvlwz4eelj/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2010%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 11
+https://www.dropbox.com/s/uo2gay65eex7zgc/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2011%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 12
+https://www.dropbox.com/s/1gkmhlebl53uuu2/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2012%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 13
+https://www.dropbox.com/s/q0y1v84ez0d7klo/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2013%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 14
+https://www.dropbox.com/s/26dtkiiruze4d87/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2014%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 15
+https://www.dropbox.com/s/ataqu23b0vkveo5/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2015%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 16
+https://www.dropbox.com/s/uj2i4g8w9ey738a/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2016%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 17
+https://www.dropbox.com/s/75offd8qa696xx1/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2017%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 18
+https://www.dropbox.com/s/cjn15xvldxa2qib/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2018%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 19
+https://www.dropbox.com/s/3301uxewbcmpy3f/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2019%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 20
+https://www.dropbox.com/s/qxsdss3kyay3ggh/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2020%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 21
+https://www.dropbox.com/s/cuf638rb36e5vn2/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2021%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 22
+https://www.dropbox.com/s/2na3cc6nbn9r7af/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2022%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 23
+https://www.dropbox.com/s/st36i7ziywttqou/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2023%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 24
+https://www.dropbox.com/s/ejc9s1wxmi35dvo/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2024%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD MOVIES MIX" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",BOKU NO HERO ACADEMIA 4TH EPISODE 25
+https://www.dropbox.com/s/lg7xpgz9s8zh8ll/Boku%20no%20Hero%20Academia%204th%20Season%20Episode%2025%20%5BTAMAT%5D%20Subtitle%20Indonesia%20-%20Animeindo.mp4?dl=1
+#EXTINF:-1 group-title="VOD",HELLOBOY
+https://www.googleapis.com/drive/v3/files/18j1Xc3hUO2qsaePHa2CFbGOcuEWSi_c-?alt=media&key=AIzaSyBaH2zGoB6iHbemwttB_Otx-OkqwVqHnUA
+#EXTINF:-1 group-title="FILM 2020" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",We Bare Bears: The Movie (2020)
+https://www.googleapis.com/drive/v3/files/1VXjD0f7pUqtOVyIzEkbJluzT5tVHWo4n?alt=media&key=AIzaSyCQnlHo8cSyeMlTbRWsOB9pHUl7q1HNbA4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",GURU-GURU GOKIL
+https://da.gd/aLBi501
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",KENTUT
+https://da.gd/aLBi520
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",IDENTITAS
+https://da.gd/aLBi521
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",MAGIC HOUR
+https://da.gd/aLBi522
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",CINTA ITU BUTA (2019)
+https://da.gd/aLBi524
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Warkop DKI: Pencet Sana Pencet Sini (1994)
+https://www.googleapis.com/drive/v3/files/1ufNonpnbX0W9hGgUqi0yjsvjR9_xW5o-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",NENG SEKOTENG VS PREMAN GANTENG
+https://m.vidio.com/videos/1319658/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",RAYUAN GOMBAL KUMBANG METROPOLITAN
+https://m.vidio.com/videos/1824246/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",DUDA TAMVAN JADI REBUTAN
+https://m.vidio.com/videos/1922780/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",INEM ASISTEN SEKSI REPOT
+https://m.vidio.com/videos/1865333/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",MY WIFE ANAK GENG MOTOR
+https://m.vidio.com/videos/1657106/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",RATU DISKON CINTANYA LIMITED EDITION
+https://m.vidio.com/videos/1685902/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",MILYADER KECE DENGAN KEARIFAN LOKAL
+https://m.vidio.com/videos/1662722/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",DIGOMBALIN MISS KECAMBAH AUTO BAPER
+https://m.vidio.com/videos/1680605/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",I Miss You Upik Abu
+https://m.vidio.com/videos/812387/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Sad Boy Mohon Doa Restu
+https://m.vidio.com/videos/1772479/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Cinta Paripurna Babang Hansip
+https://m.vidio.com/videos/1908571/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Virus Cinta Cewek Cincau
+https://m.vidio.com/videos/1893796/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Polisi Ganteng Mah Bebas
+https://m.vidio.com/videos/1907021/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Nanti Kita Cerita Tentang Pukis Nangka
+https://m.vidio.com/videos/1903032/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Sobat Ambyar Jadi Saksi Nikah Kita
+https://m.vidio.com/videos/1872381/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Setangkai Rambutan Cinta
+https://m.vidio.com/videos/1228364/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Seblak Empire Hentikan Ledakan Cinta
+https://m.vidio.com/videos/1888777/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Mengejar Cinta Siap Bosque!
+https://m.vidio.com/videos/1673681/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Cintaku Di Top Up Sampai Unlimited
+https://m.vidio.com/videos/1889354/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Mas Jawara In Your Area
+https://m.vidio.com/videos/1835963/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Jodoh Ditolak Nikah Bertindak
+https://m.vidio.com/videos/1919623/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Dewi Bunga Episode 1
+https://m.vidio.com/videos/1900680/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Dewi Bunga Episode 2
+https://m.vidio.com/videos/1902495/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (ESOK PUASA)
+http://www.supercartube.com/media/videos/h264/138_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (DUGAAN)
+http://www.supercartube.com/media/videos/h264/139_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (NIKMAT)
+http://www.supercartube.com/media/videos/h264/140_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (TARAWIH)
+http://www.supercartube.com/media/videos/h264/141_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (ESOK RAYA)
+http://www.supercartube.com/media/videos/h264/142_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (HARI RAYA)
+http://www.supercartube.com/media/videos/h264/143_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",IPIN & APIN
+http://www.supercartube.com/media/videos/h264/196_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (JEJAK REMBO)
+http://www.supercartube.com/media/videos/h264/197_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (DIRI BERSIH BADAN SIHAT)
+http://www.supercartube.com/media/videos/h264/198_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (AMBIL GALAH TOLONG TUNJUKKAN)
+http://www.supercartube.com/media/videos/h264/200_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",UPIN IPIN (SAPY OH SAPY)
+http://www.supercartube.com/media/videos/h264/201_360p.mp4
+#EXTINF:-1 group-title="FILM INDONESIA" tvg-logo="https://zaltv.com/logo.png",UPIN IPIN (KEMBARA KE PULAU HARTA KARUN!)
+http://www.supercartube.com/media/videos/h264/202_360p.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/6.jpg",EMMA (2020)
+https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/39.jpg",JOKER (2018)
+https://www.googleapis.com/drive/v3/files/1hSy4C4GNuXzkTSoynyU3rp0Tx5qoDGB9?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/331.jpg",SAMSON (2018)
+https://www.googleapis.com/drive/v3/files/1f3ye8vZoAXrnnUGcE9DAfUqBkj-CnhHG?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/611.jpg",pan (2015)
+https://www.googleapis.com/drive/v3/files/1PWXauS3Ses6JxfSawlu2ZF9GWkAMnorV?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/608.jpg",NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
+https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/594.jpg",DADDY'S HOME (2014)
+https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/593.jpg",VICTOR FRANKENSTEIN (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/592.jpg",RETURN OF XANDER CAGE (2017)
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/591.jpg",MORTAL ENGINES (2018)
+https://www.googleapis.com/drive/v3/files/1BK75mxpQP8zsCtTaXiY5XVR86eMZXJkg?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/590.jpg",FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+https://www.googleapis.com/drive/v3/files/1ueBcd30nR8F9-5SXRHw0_ieiuXM2ljXe?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/589.jpg",GREEN BOOK (2018)
+https://www.googleapis.com/drive/v3/files/1YPWoh4F4RmC-NHqLeFIM4bF5xHXqWgmH?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/588.jpg",MARY POPPINS RETURNS (2018)
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/587.jpg",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/585.jpg",RALPH BREAKS THE INTERNET (2018)
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/574.jpg",AQUAMAN (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/572.jpg",RACETIME (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/552.jpg",HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/551.jpg",DESTROYER (2018)
+https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg",DRAGON BALL SUPER: BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/531.jpg",CRAZY RICH ASIANS (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/527.jpg",THE MAGNIFICENT SEVEN (2016)
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/523.jpg",BABY DRIVER (2017)
+https://www.googleapis.com/drive/v3/files/1VRGxjEy2o8T2JnUUdaAP8p1k-Vao6Yyr?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/poster_image/522.jpg",RIDE ALONG 2 (2016)
+https://www.googleapis.com/drive/v3/files/1dyDqEa1c6dhRVZOsLl9JII4EYPFE9Yxt?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/504.jpg",ROGUE ONE: A STAR WARS STORY (2016)
+https://www.googleapis.com/drive/v3/files/1PWGUA_NJVCa7fP8C-NVEob9avtco1Psu?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/499.jpg",BILL & TED FACE THE MUSIC (2020)
+https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/498.jpg",UNBROKEN  (2014)
+https://www.googleapis.com/drive/v3/files/138ULN0bJjVURpAFY28LEcnYSbtM3ivtD?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/497.jpg",SULLY (2016)
+https://www.googleapis.com/drive/v3/files/1CMlsBsbTOgvQLKrxhMH7pmpL2jiiQfKI?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/496.jpg",ZOOLANDER 2 (2016)
+https://www.googleapis.com/drive/v3/files/1TOHqJvRvFRdbPj4bZC8VqnsqHDP4ry7x?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/494.jpg",THE SHALLOWS (2016)
+https://www.googleapis.com/drive/v3/files/1wM9kM4gL7lHsdMR_dAf1CrM3JWqu1ihV?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/483.jpg",WAR DOGS (2016)
+https://www.googleapis.com/drive/v3/files/1EKSFMRjZTk7EIinSorKUVdyY49QlimHe?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/481.jpg",BLAIR WITCH (2016)
+https://www.googleapis.com/drive/v3/files/10-DL5QPnbvxI0lB-LQOSTVzkjpovbijv?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/480.jpg",PATRIOTS DAY (2017)
+https://www.googleapis.com/drive/v3/files/13A_5w-z5jQJMyXYqdW-UTLLHbsyZaN5W?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/479.jpg",SUICIDE SQUAD (2016)
+https://www.googleapis.com/drive/v3/files/1kBxH8WpDTKiU1JBoJsT3ISnomp6-DcIa?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg",THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg",CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg",MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg",CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg",COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg",MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg",THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg",US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http:////185.238.0.145:1313/uploads/video_thumb/455.jpg",LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg",THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg",THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg",THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg",A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg",KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg",shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 group-title="VOD CAMPUR" tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg",AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Ninja: Immovable Heart
+https://iflix-videocdn-p1.akamaized.net/4dedf/256433.ism/dash_video_576_1024_940000.mp4?assetId=256433&idx=0&userId=v_44-i_26853210
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Lampor: Keranda Terbang (2019)
+https://iflix-videocdn-p1.akamaized.net/41df5/277114.ism/dash/v1/video/940000/dash_video_1024_576_940000.mp4?assetId=277114&idx=0&userId=v_44-i_448101912
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Alien: Covenant (2017)
+https://cdn.zaccar.ru//movies/12-03-2019/Alien.Covenant.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Pokemon : Detective Pikachu
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Alien : Covenant
+https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Mummy Reborn (2019)
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Joker (2019)
+https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Wake Up (2019
+https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Gemini Man (2019)
+https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Door in the Woods (2019)
+https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Fighting Preacher (2019)
+https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Transit 17 (2019)
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Crawl (2019)
+https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",One Child Nation (2019)
+https://www.googleapis.com/drive/v3/files/1SpUms8rbDzf7tQYsoS1C6OteMHqcB2Gd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Remain Silent (2019)
+https://www.googleapis.com/drive/v3/files/1F6L-vTBUA-R0aZmeGPG2mCWwhSmzWMeW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Knight of Shadows: Between Yin and Yang (2019)
+https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Kingdom (2019)
+https://www.googleapis.com/drive/v3/files/1vtbYgCiSL5uBVeR7g5AW4d6chg5hnAbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Invincible Dragon (2019)
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Furies (2019)
+https://www.googleapis.com/drive/v3/files/1bi3DeLkp1bR4yT4N6QaThk4eI5Mzkt6a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Reborn (2018)
+https://www.googleapis.com/drive/v3/files/1kg5VWGx4nyVx23vl6ddVIm0BF0pdhXPo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",The Last Women Standing (2015)
+https://www.googleapis.com/drive/v3/files/1KJsAfRYpVeg_ZNxV32FnNS-bSbiPMjqf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP CAMPURAN" tvg-logo="https://i.imgur.com/GRyLt2s.jpg",Scary Stories to Tell in the Dark (2019)
+https://zaccar.b-cdn.net/movies/11-04-2019/Scary.Stories.To.Tell.In.The.Dark.2019.720p.BluRay.x264-%5BYTS.LT%5D.mp4
