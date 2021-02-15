@@ -37,18 +37,6 @@ https://mkctv.net/siap/usee-rtv.m3u8
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png",AnTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEINFO
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/useeinfo-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPHOTO
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/useephoto-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPRIME
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/useeprime-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDKU
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/idku-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://images.useetv.com/logo_tvri_big1.png",TVRIcanal3
@@ -69,60 +57,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVEDUKASI
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/tvedukasi-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",LINGUA
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/lingua-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CGTN
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/cgtn-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",HGTV
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/hgtv-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",OUTDOOR
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/outdoor-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",ANTARA
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/antara-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDX
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/idx-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BERITASATU
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/berita1-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",DWTV
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/dwtv-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",FRANS24
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/france24-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CNNINDO
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/cnnid-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BLOOMBERG
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/bloomberg-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CCTV4
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/cctv4-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVBS
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/tvbs-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",EURONEWS
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/euronews-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",NHKWORLD
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/nhkworld-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TV5MONDE
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/tv5monde-
-#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",SEATODAY
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/seatoday-
+
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SinemaIndonesiaX
 http://wz.insantv.net/monitor/ch106.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",DrakorPlus
@@ -2508,38 +2443,7 @@ http://185.238.242.136:20000/hls/play/id/498.m3u8
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/XaQBspc.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 1
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/bein1-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 2
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/bein2-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 1
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/useesport-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 2
-https://da.gd/useesprt2-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/champion1-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 2
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/champion2-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 1
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/foxsport1-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 2
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/foxsport2-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 3
-https://da.gd/foxsport3-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",LIGA2
-https://da.gd/ligadua-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",GOLFPLUS
-https://da.gd/golfplus-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",NBA
-#EXTVLCOPT:http-user-agent=com.baru.terbaru
-https://da.gd/nba-
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/camp1
