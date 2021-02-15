@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/TJHbMcu.png",SelamatMenikmati @NashyaIPtv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biz Adventure
@@ -35,6 +37,14 @@ https://mkctv.net/siap/usee-rtv.m3u8
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png",AnTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEINFO
+https://da.gd/useeinfo-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPHOTO
+https://da.gd/useephoto-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPRIME
+https://da.gd/useeprime-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDKU
+https://da.gd/idku-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="http://images.useetv.com/logo_tvri_big1.png",TVRIcanal3
@@ -55,6 +65,42 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVEDUKASI
+https://da.gd/tvedukasi-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",LINGUA
+https://da.gd/lingua-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CGTN
+https://da.gd/cgtn-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",HGTV
+https://da.gd/hgtv-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",OUTDOOR
+https://da.gd/outdoor-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",ANTARA
+https://da.gd/antara-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDX
+https://da.gd/idx-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BERITASATU
+https://da.gd/berita1-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",DWTV
+https://da.gd/dwtv-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",FRANS24
+https://da.gd/france24-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CNNINDO
+https://da.gd/cnnid-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BLOOMBERG
+https://da.gd/bloomberg-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CCTV4
+https://da.gd/cctv4-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVBS
+https://da.gd/tvbs-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",EURONEWS
+https://da.gd/euronews-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",NHKWORLD
+https://da.gd/nhkworld-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TV5MONDE
+https://da.gd/tv5monde-
+#EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",SEATODAY
+https://da.gd/seatoday-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SinemaIndonesiaX
 http://wz.insantv.net/monitor/ch106.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",DrakorPlus
@@ -1466,6 +1512,87 @@ https://www.googleapis.com/drive/v3/files/1Bo273M--gsjeB99TBDVJkaZC-NRQ6-gb?alt=
 https://www.googleapis.com/drive/v3/files/1B1tOlnmIcoXavEvuusSrMbS21WcHP572?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="ANIME Detective Conan" tvg-logo="TEST",Detective_Conan Ep.185
 https://www.googleapis.com/drive/v3/files/1DDTS1s-eDIc2EUiA5FjAIUfwDRYJVT_A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",HBOFAMILY
+https://da.gd/hbo-fam
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",HBO
+https://da.gd/hboid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",HBOHITS
+https://da.gd/hbo-hits
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",HBOMAX
+https://da.gd/hbo-max
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",HBORED
+https://da.gd/hbo-red
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",KDRAMA
+https://da.gd/k-drama
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",KIX
+https://da.gd/kixid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",IMC
+https://da.gd/imcid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",ANIMAX
+https://da.gd/animaxid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",ANIPLUS
+https://da.gd/anyplusid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",AXN
+https://da.gd/axnid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png"B4U
+https://da.gd/b4uindia
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",BIOSKOPINDONESIA
+https://da.gd/bioskopid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",CITRADRAMA
+https://da.gd/cdramaid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",CELESTERIALMOVIES
+https://da.gd/celesteria
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",DRAKORPLUS
+https://da.gd/drakorp
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",FLIK
+https://da.gd/flikid
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXMOVIES
+https://da.gd/foxmovies
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",GALAXY
+https://da.gd/galaxy
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",GOTOLUXE
+https://da.gd/gotoluxe
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",LOTUSMACAU
+https://da.gd/lotusmacau
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",MCINE
+https://da.gd/mcine
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",POENIXHK
+https://da.gd/phoenixhk
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",SINEMAINDONESIA
+https://da.gd/sinemaindo
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",SINEMAINDONESIA-X
+https://da.gd/sinemaindX
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",THRILL
+https://da.gd/thrill
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",SPORTONE
+https://da.gd/sportone
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",TOONMAX
+https://da.gd/toonmax
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",TVBSNEWS
+https://da.gd/tvbnews
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",TVESIA
+https://da.gd/tveasia
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",TVNMOVIES
+https://da.gd/tvnmovies
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",TVRISPORTS
+https://da.gd/tvrisport
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",UCHANNEL
+https://da.gd/uchannel
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",VCHINA
+https://da.gd/vchina
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",WARNERBROSTV
+https://da.gd/warner
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",ZBIOSKOP
+https://da.gd/zbioskop
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",AFC
+https://da.gd/afc
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",ARIRANG
+https://da.gd/arirang
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",CETV
+https://da.gd/cetv
+#EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/XaQBspc.png",CINEW
+https://da.gd/cinew
 #EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:-1 group-title="MoviesTV" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBOSignature
@@ -1669,6 +1796,7 @@ https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1
 https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored540.m3u8
 #EXTINF:-1 group-title="HBOGROUP" tvg-logo="https://cdn.macan.tv/img/red_hbo.png",RED by HBO FHD
 https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboredFHD.m3u8
+
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/8GdPxIy.png",FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 group-title="FOXGROUP" tvg-logo="https://i.imgur.com/qozJjyJ.png",FOX CRIME
@@ -2244,12 +2372,34 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/XaQBspc.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
+https://da.gd/camp1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 2
+https://da.gd/champ2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 1
+https://da.gd/bein11
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 2
+https://da.gd/bein12
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 1
+https://da.gd/useesport1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 2
+https://da.gd/useesport2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 1
+https://da.gd/foxsport1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 2
+https://da.gd/foxsport2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 3
+https://da.gd/foxsport3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",NBA
+https://da.gd/nba
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",DUBAISPORT
+https://da.gd/dubaisport
 #EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 group-title="RELIGI",HIDUP TV
