@@ -38,16 +38,16 @@ http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png",AnTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEINFO
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/useeinfo-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPHOTO
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/useephoto-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPRIME
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/useeprime-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDKU
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/idku-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
@@ -70,58 +70,58 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",Drakor
 http://wz.insantv.net/monitor/ch105.m3u8
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVEDUKASI
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/tvedukasi-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",LINGUA
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/lingua-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CGTN
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/cgtn-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",HGTV
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/hgtv-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",OUTDOOR
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/outdoor-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",ANTARA
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/antara-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",IDX
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/idx-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BERITASATU
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/berita1-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",DWTV
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/dwtv-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",FRANS24
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/france24-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CNNINDO
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/cnnid-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",BLOOMBERG
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/bloomberg-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",CCTV4
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/cctv4-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TVBS
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/tvbs-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",EURONEWS
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/euronews-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",NHKWORLD
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/nhkworld-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",TV5MONDE
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/tv5monde-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/XaQBspc.png",SEATODAY
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/seatoday-
 #EXTINF:-1 group-title="NashyaIPtv" tvg-logo="https://i.imgur.com/FhqTZhm.png",SinemaIndonesiaX
 http://wz.insantv.net/monitor/ch106.m3u8
@@ -1894,118 +1894,118 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/11bisfT.jpg",Hi!Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",ANTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/antvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",ANTV 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/antv2id
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",ATV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/atvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",BERITASATU
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/berita1
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",INDOSIAR
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/indosiarid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",INDOSIAR 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/indosiar
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",INEWS
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/i-news
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",JAKTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/jaktvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",JITV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/jitv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",KOMPASTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/kompastv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",KOMPASTV 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/kompas-tv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",LEJELSHS
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/lejelhs
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MAGNATV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/magnatv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MATRIXTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/matrixtv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MENTARITV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/mentaritv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",METROTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/metro-tv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MTVCINA
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/mtvchina
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MNCTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/mnctv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",MYTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/mytv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",NETTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/net-tv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",NUSANTARATV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/nusantara
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",OCHANNEL
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/ochannel
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",PERSIJATV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/persijatv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",OXYGENTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/oxygentv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",DUNIALAIN
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/dunialain
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",ELSHINTA
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/elshinta
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",RCTI
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/rctiid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",RTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/rtvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",RTV 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/rajawalitv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEINFO
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/useeinfo
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",SCTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/sctvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",SCTV 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/sctv
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPRIME
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/useeprime
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",USEEPHOTO
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/useephoto
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",TRANS7
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/trans7id
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",TRANSTV
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/transtvid
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",TVONE
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/tvone
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/XaQBspc.png",TVEDUKASI
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/tvedukasi
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
@@ -2509,27 +2509,27 @@ https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/XaQBspc.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 1
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/bein1-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 2
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/bein2-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 1
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/useesport-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 2
 https://da.gd/useesprt2-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/champion1-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 2
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/champion2-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 1
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/foxsport1-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 2
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/foxsport2-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 3
 https://da.gd/foxsport3-
@@ -2538,37 +2538,37 @@ https://da.gd/ligadua-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",GOLFPLUS
 https://da.gd/golfplus-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",NBA
-#EXTVLCOPT:com.baru.terbaru
+#EXTVLCOPT:http-user-agent=com.baru.terbaru
 https://da.gd/nba-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/camp1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/champ2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 1
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/bein11
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/bein12
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 1
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/useesport1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/useesport2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 1
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/foxsport1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 2
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/foxsport2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 3
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/foxsport3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",NBA
-#EXTVLCOPT:elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 https://da.gd/nba
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
