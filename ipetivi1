@@ -2443,45 +2443,45 @@ http://185.238.242.136:20000/hls/play/id/498.m3u8
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/XaQBspc.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",bein1
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/camp1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",CHAMPIONSPORTS 2
+https://andriant.net/baru/bein1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",bein2
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/champ2
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 1
+https://andriant.net/baru/bein2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",useesport
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/bein11
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",BEINSPORT 2
+https://andriant.net/baru/useesport.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",useesports2
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/bein12
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 1
+https://andriant.net/baru/useesports2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",champion1
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/useesport1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",USEESPORT 2
+https://andriant.net/baru/champion1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",champion2
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/useesport2
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 1
+https://andriant.net/baru/champion2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",foxmovies
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/foxsport1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 2
+https://andriant.net/andrian.m3u8/?channel=foxmovies
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",foxsport1
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/foxsport2
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",FOXSPORTS 3
+https://andriant.net/baru/foxsport1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",foxsport2
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/foxsport3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",NBA
+https://andriant.net/baru/foxsport2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",foxsport3
 #EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-https://da.gd/nba
+https://andriant.net/baru/foxsport3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",nba
+#EXTVLCOPT:http-user-agent=elang.tv/9.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+https://andriant.net/baru/nba.m3u8
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title=group-title="SPORTS" tvg-logo=" https://i.imgur.com/c7cSOJ7.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XaQBspc.png",DUBAISPORT
-https://da.gd/dubaisport
 #EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 group-title="RELIGI",HIDUP TV
