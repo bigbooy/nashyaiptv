@@ -3895,6 +3895,36 @@ http://sportmax.xyz/9.html
 http://sportmax.xyz/18.html
 #EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png",Canal+Sport France
 http://sportmax.xyz/6.html
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 1 HD 
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR || Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",AR ||  Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bein Sports 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://i.imgur.com/oPpGMdS.png",Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
 #EXTINF:-1 group-title="24/7ADULTSWIMGEO",Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 group-title="24/7ADULTSWIMGEO" tvg-logo="https://i.imgur.com/azzpKrT.png",DreamCorpLLC(Geo)
